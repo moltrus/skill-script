@@ -1,0 +1,2034 @@
+\t (00:00:08) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Tue Apr 29 16:33:09 2025
+\t (00:00:08)         Host=YODA User=jkholick Pid=2712 CPUs=8
+\t (00:00:08) CmdLine= d:\alegro\tools\bin\allegro.exe C:\Users\jkholick\Desktop\skill-script\IEMI_20230730.brd
+\t (00:00:08) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:10) Opening existing design...
+\i (00:00:10) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged IEMI_20230730
+\d (00:00:10) Design opened: C:/Users/jkholick/Desktop/skill-script/IEMI_20230730.brd
+\i (00:00:11) trapsize 70621
+\i (00:00:11) trapsize 73754
+\i (00:00:11) trapsize 70621
+\i (00:00:11) trapsize 390625
+\i (00:00:13) trapsize 246837
+\i (00:00:13) generaledit 
+\i (00:00:28) skill 'loadi "silkscreenPlacementRules.il"' 
+   (00:00:28) t
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -3720.695 3068.448
+\i (00:00:37) trapsize 123418
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -3720.695 3093.132
+\i (00:00:37) trapsize 61709
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -3720.695 3093.133
+\i (00:00:37) trapsize 30855
+\i (00:00:38) roam start
+\i (00:00:39) roam x -16
+\i (00:00:39) roam x -32
+\i (00:00:39) roam x -48
+\i (00:00:39) roam x -16
+\i (00:00:39) roam x 16
+\i (00:00:39) roam y 16
+\i (00:00:39) roam x 16
+\i (00:00:39) roam x 16
+\i (00:00:39) roam x 32
+\i (00:00:39) roam y 16
+\i (00:00:39) roam x 32
+\i (00:00:39) roam x 16
+\i (00:00:39) roam y 16
+\i (00:00:39) roam x 16
+\i (00:00:39) roam x 16
+\i (00:00:39) roam y 16
+\i (00:00:39) roam x 16
+\i (00:00:39) roam x 16
+\i (00:00:39) roam y 16
+\i (00:00:39) roam x 32
+\i (00:00:39) roam x 32
+\i (00:00:39) roam y 32
+\i (00:00:39) roam x 48
+\i (00:00:39) roam y 16
+\i (00:00:39) roam x 48
+\i (00:00:39) roam y 32
+\i (00:00:39) roam x 64
+\i (00:00:39) roam y 32
+\i (00:00:39) roam x 16
+\i (00:00:39) roam x -16
+\i (00:00:39) roam x -16
+\i (00:00:39) roam y -16
+\i (00:00:39) roam x 16
+\i (00:00:39) roam x 32
+\i (00:00:39) roam y 32
+\i (00:00:39) roam x 48
+\i (00:00:39) roam y 32
+\i (00:00:39) roam x 48
+\i (00:00:39) roam y 16
+\i (00:00:39) roam x 48
+\i (00:00:39) roam y 32
+\i (00:00:40) roam x 80
+\i (00:00:40) roam y 32
+\i (00:00:40) roam x 80
+\i (00:00:40) roam y 48
+\i (00:00:40) roam x 48
+\i (00:00:40) roam y 32
+\i (00:00:40) roam x 16
+\i (00:00:40) roam y 16
+\i (00:00:40) roam x 16
+\i (00:00:40) roam y 16
+\i (00:00:40) roam x 16
+\i (00:00:40) roam x 16
+\i (00:00:40) roam x 16
+\i (00:00:40) roam y -16
+\i (00:00:40) roam y -16
+\i (00:00:41) roam end
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 3826.335 1095.314
+\i (00:00:41) trapsize 15427
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 3570.242 1157.024
+\i (00:00:41) trapsize 30855
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 3440.653 1206.391
+\i (00:00:41) trapsize 61709
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 3440.653 1206.391
+\i (00:00:41) trapsize 123418
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 3366.602 1354.493
+\i (00:00:42) trapsize 61709
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 3366.602 1354.493
+\i (00:00:42) trapsize 30855
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 3366.602 1354.494
+\i (00:00:42) trapsize 15427
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 3255.526 1363.751
+\i (00:00:42) trapsize 30855
+\i (00:00:43) roam start
+\i (00:00:43) roam x -16
+\i (00:00:43) roam x -32
+\i (00:00:44) roam x -16
+\i (00:00:44) roam x -16
+\i (00:00:44) roam x 16
+\i (00:00:44) roam y 32
+\i (00:00:44) roam x 16
+\i (00:00:44) roam y 32
+\i (00:00:44) roam x 16
+\i (00:00:44) roam y 16
+\i (00:00:44) roam x 16
+\i (00:00:44) roam y 16
+\i (00:00:44) roam x 16
+\i (00:00:44) roam y 16
+\i (00:00:44) roam y 16
+\i (00:00:44) roam y 16
+\i (00:00:44) roam y -16
+\i (00:00:44) roam y -32
+\i (00:00:44) roam y -48
+\i (00:00:44) roam x -16
+\i (00:00:44) roam y -48
+\i (00:00:44) roam x -16
+\i (00:00:44) roam y -80
+\i (00:00:44) roam y -32
+\i (00:00:44) roam x -16
+\i (00:00:44) roam y -16
+\i (00:00:44) roam x -16
+\i (00:00:44) roam x -16
+\i (00:00:44) roam x -32
+\i (00:00:44) roam y 32
+\i (00:00:44) roam x -16
+\i (00:00:44) roam y 16
+\i (00:00:45) roam y 16
+\i (00:00:45) roam x 16
+\i (00:00:45) roam y 16
+\i (00:00:45) roam x 16
+\i (00:00:45) roam y 16
+\i (00:00:45) roam x 16
+\i (00:00:45) roam end
+\i (00:01:08) place_silkscreen 
+\i (00:01:08) generaledit 
+\i (00:01:16) setwindow form.silkscreenPlacementForm
+\i (00:01:16) FORM silkscreenPlacementForm done  
+   (00:01:16) *Error* return: return can only be used within a prog
+\i (00:01:20) FORM silkscreenPlacementForm done  
+   (00:01:20) *Error* return: return can only be used within a prog
+\i (00:01:28) FORM silkscreenPlacementForm cancel  
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom in 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom in 2727.914 2076.490
+\i (00:01:38) trapsize 15427
+\i (00:01:38) zoom in 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom in 2727.914 2076.490
+\i (00:01:38) trapsize 7714
+\i (00:01:38) zoom in 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom in 2727.914 2076.490
+\i (00:01:38) trapsize 3857
+\i (00:01:38) zoom in 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom in 2727.914 2076.490
+\i (00:01:38) trapsize 1928
+\i (00:01:38) zoom out 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom out 2727.528 2076.490
+\i (00:01:38) trapsize 3857
+\i (00:01:38) zoom out 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom out 2727.528 2076.491
+\i (00:01:38) trapsize 7714
+\i (00:01:38) zoom out 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom out 2727.529 2076.490
+\i (00:01:38) trapsize 15427
+\i (00:01:40) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged ------------------------
+\i (00:01:40) QtSignal ColorVisibilityPane CVPViewDropdown activated ------------------------
+\i (00:01:40) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: L1.gbr"
+\i (00:01:40) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: L1.gbr"
+\i (00:01:41) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: L2P.gbr"
+\i (00:01:41) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: L2P.gbr"
+\i (00:01:41) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: L3P.gbr"
+\i (00:01:41) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: L3P.gbr"
+\i (00:01:41) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: L4P.gbr"
+\i (00:01:41) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: L4P.gbr"
+\i (00:01:41) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: L5P.gbr"
+\i (00:01:41) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: L5P.gbr"
+\i (00:01:41) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: L6.gbr"
+\i (00:01:41) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: L6.gbr"
+\i (00:01:41) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: PLC_BOT"
+\i (00:01:41) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: PLC_BOT"
+\i (00:01:42) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: PLC_BOTH"
+\i (00:01:42) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: PLC_BOTH"
+\i (00:01:42) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: PLC_TOP"
+\i (00:01:42) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: PLC_TOP"
+\i (00:01:42) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: aspr.gbr"
+\i (00:01:42) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: aspr.gbr"
+\i (00:01:42) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: asse.gbr"
+\i (00:01:42) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: asse.gbr"
+\i (00:01:42) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: fab.gbr"
+\i (00:01:42) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: fab.gbr"
+\i (00:01:43) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: slpr.gbr"
+\i (00:01:43) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: slpr.gbr"
+\i (00:01:43) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: slse.gbr"
+\i (00:01:43) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: slse.gbr"
+\i (00:01:43) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: smpr.gbr"
+\i (00:01:43) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: smpr.gbr"
+\i (00:01:43) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: smse.gbr"
+\i (00:01:43) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: smse.gbr"
+\i (00:01:44) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: sppr.gbr"
+\i (00:01:44) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: sppr.gbr"
+\i (00:01:44) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: spse.gbr"
+\i (00:01:44) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: spse.gbr"
+\i (00:01:45) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: sppr.gbr"
+\i (00:01:45) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: sppr.gbr"
+\i (00:01:45) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: smse.gbr"
+\i (00:01:45) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: smse.gbr"
+\i (00:01:45) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: smpr.gbr"
+\i (00:01:45) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: smpr.gbr"
+\i (00:01:45) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: slse.gbr"
+\i (00:01:45) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: slse.gbr"
+\i (00:01:45) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: slpr.gbr"
+\i (00:01:45) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: slpr.gbr"
+\i (00:01:45) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: fab.gbr"
+\i (00:01:45) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: fab.gbr"
+\i (00:01:45) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: asse.gbr"
+\i (00:01:45) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: asse.gbr"
+\i (00:01:45) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: aspr.gbr"
+\i (00:01:45) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: aspr.gbr"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: PLC_TOP"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: PLC_TOP"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: PLC_BOTH"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: PLC_BOTH"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: PLC_BOT"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: PLC_BOT"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: L6.gbr"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: L6.gbr"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: L5P.gbr"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: L5P.gbr"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: L4P.gbr"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: L4P.gbr"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: L3P.gbr"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: L3P.gbr"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: L2P.gbr"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: L2P.gbr"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: L1.gbr"
+\i (00:01:46) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: L1.gbr"
+\i (00:01:47) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged ------------------------
+\i (00:01:47) QtSignal ColorVisibilityPane CVPViewDropdown activated ------------------------
+\i (00:01:47) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
+\i (00:01:47) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (00:01:53) setwindow form.mini
+\i (00:01:53) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:54) FORM mini subcolor 1 
+\i (00:01:57) FORM mini subclass SILKSCREEN_BOTTOM 
+\i (00:01:58) FORM mini subcolor 1 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
+\i (00:02:03) setwindow form.mini
+\i (00:02:03) FORM mini subcolor 1 
+\i (00:02:05) FORM mini subclass SILKSCREEN_TOP 
+\i (00:02:06) FORM mini subcolor 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 4261.003 2258.533
+\i (00:02:07) trapsize 30855
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 4273.345 2258.533
+\i (00:02:07) trapsize 61709
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 4853.412 1555.048
+\i (00:02:07) trapsize 123418
+\i (00:02:07) zoom in 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom in 11410.413 814.537
+\i (00:02:07) trapsize 61709
+\i (00:02:07) zoom in 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom in 11410.414 777.512
+\i (00:02:07) trapsize 30855
+\i (00:02:08) zoom in 1 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom in 5881.268 968.811
+\i (00:02:08) trapsize 15427
+\i (00:02:08) zoom in 1 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom in 5844.243 950.298
+\i (00:02:08) trapsize 7714
+\i (00:02:09) zoom out 1 
+\i (00:02:09) setwindow pcb
+\i (00:02:09) zoom out 5838.073 953.383
+\i (00:02:09) trapsize 15427
+\i (00:02:09) roam start
+\i (00:02:09) roam x 16
+\i (00:02:09) roam x 32
+\i (00:02:09) roam x 16
+\i (00:02:09) roam x 32
+\i (00:02:09) roam x 16
+\i (00:02:09) roam x 16
+\i (00:02:09) roam x 16
+\i (00:02:09) roam x 32
+\i (00:02:09) roam x 16
+\i (00:02:09) roam x 16
+\i (00:02:09) roam x 32
+\i (00:02:09) roam x 16
+\i (00:02:09) roam x 16
+\i (00:02:10) roam x 16
+\i (00:02:10) roam x 16
+\i (00:02:10) roam x -16
+\i (00:02:10) roam x -16
+\i (00:02:10) roam y 16
+\i (00:02:10) roam x -32
+\i (00:02:10) roam x -48
+\i (00:02:10) roam x -32
+\i (00:02:10) roam x -32
+\i (00:02:10) roam x -48
+\i (00:02:10) roam x -48
+\i (00:02:10) roam x -48
+\i (00:02:10) roam x -32
+\i (00:02:10) roam x -32
+\i (00:02:10) roam x -48
+\i (00:02:10) roam x -32
+\i (00:02:10) roam x -32
+\i (00:02:10) roam x -48
+\i (00:02:10) roam x -32
+\i (00:02:10) roam x -32
+\i (00:02:10) roam x -16
+\i (00:02:10) roam x -16
+\i (00:02:10) roam x -32
+\i (00:02:10) roam x -16
+\i (00:02:10) roam x -16
+\i (00:02:10) roam x -16
+\i (00:02:10) roam x -16
+\i (00:02:10) roam x -32
+\i (00:02:10) roam x -16
+\i (00:02:10) roam y 16
+\i (00:02:10) roam x -16
+\i (00:02:10) roam x -32
+\i (00:02:10) roam x -16
+\i (00:02:10) roam x -16
+\i (00:02:10) roam x -16
+\i (00:02:10) roam x -16
+\i (00:02:10) roam x -16
+\i (00:02:10) roam x -16
+\i (00:02:10) roam x -16
+\i (00:02:10) roam end
+\i (00:02:15) QtSignal CVPLayerGrid CVPAll_LayersVia clicked true
+\i (00:02:16) QtSignal CVPLayerGrid CVPAll_LayersVia clicked false
+\i (00:02:16) QtSignal CVPLayerGrid CVPAll_LayersPin clicked true
+\i (00:02:18) QtSignal CVPLayerGrid CVPAll_LayersPin clicked false
+\i (00:02:18) QtSignal CVPLayerGrid CVPAll_LayersPin clicked true
+\i (00:02:20) QtSignal CVPLayerGrid CVPButtonPinSoldermask_Top clicked
+\i (00:02:20) QtSignal CVPLayerGrid CVPButtonPinTop clicked
+\i (00:02:21) QtSignal CVPLayerGrid CVPButtonPinTop clicked
+\i (00:02:22) QtSignal CVPLayerGrid CVPButtonPinSoldermask_Top clicked
+\i (00:02:22) QtSignal CVPLayerGrid CVPButtonPinSoldermask_Top clicked
+\i (00:02:24) QtSignal CVPLayerGrid CVPButtonPinPwr1 clicked
+\i (00:02:25) QtSignal CVPLayerGrid CVPButtonPinGnd1 clicked
+\i (00:02:25) QtSignal CVPLayerGrid CVPButtonPinPwr1 clicked
+\i (00:02:26) QtSignal CVPLayerGrid CVPButtonPinGnd1 clicked
+\i (00:02:27) QtSignal CVPLayerGrid CVPButtonPinGnd1 clicked
+\i (00:02:28) QtSignal CVPLayerGrid CVPButtonPinTop clicked
+\i (00:02:28) QtSignal CVPLayerGrid CVPButtonPinTop clicked
+\i (00:02:29) QtSignal CVPLayerGrid CVPButtonPinPwr1 clicked
+\i (00:02:30) QtSignal CVPLayerGrid CVPButtonPinPwr2 clicked
+\i (00:02:31) QtSignal CVPLayerGrid CVPButtonPinGnd2 clicked
+\i (00:02:32) QtSignal CVPLayerGrid CVPButtonPinGnd2 clicked
+\i (00:02:33) QtSignal CVPLayerGrid CVPButtonPinBottom clicked
+\i (00:02:33) QtSignal CVPLayerGrid CVPButtonPinBottom clicked
+\i (00:02:34) QtSignal CVPLayerGrid CVPButtonPinBottom clicked
+\i (00:02:34) QtSignal CVPLayerGrid CVPButtonPinBottom clicked
+\i (00:02:35) QtSignal CVPLayerGrid CVPButtonPinGnd2 clicked
+\i (00:02:35) QtSignal CVPLayerGrid CVPButtonPinGnd2 clicked
+\i (00:02:36) QtSignal CVPLayerGrid CVPButtonPinGnd2 clicked
+\i (00:02:36) QtSignal CVPLayerGrid CVPButtonPinSoldermask_Bottom clicked
+\i (00:02:37) QtSignal CVPLayerGrid CVPButtonPinSoldermask_Bottom clicked
+\i (00:02:37) QtSignal CVPLayerGrid CVPButtonPinSoldermask_Bottom clicked
+\i (00:02:38) zoom in 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom in 5825.729 669.530
+\i (00:02:38) trapsize 7714
+\i (00:02:38) zoom in 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom in 5796.417 669.530
+\i (00:02:38) trapsize 3857
+\i (00:02:38) zoom in 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom in 5794.103 671.073
+\i (00:02:38) trapsize 1928
+\i (00:02:39) zoom out 1 
+\i (00:02:39) setwindow pcb
+\i (00:02:39) zoom out 5784.847 690.358
+\i (00:02:39) trapsize 3857
+\i (00:02:39) zoom out 1 
+\i (00:02:39) setwindow pcb
+\i (00:02:39) zoom out 5760.935 691.129
+\i (00:02:39) trapsize 7714
+\i (00:02:39) zoom in 1 
+\i (00:02:39) setwindow pcb
+\i (00:02:39) zoom in 5319.715 680.330
+\i (00:02:39) trapsize 3857
+\i (00:02:39) roam start
+\i (00:02:39) roam x 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam x 16
+\i (00:02:40) roam end
+\i (00:02:40) zoom in 1 
+\i (00:02:40) setwindow pcb
+\i (00:02:40) zoom in 5358.277 679.559
+\i (00:02:40) trapsize 1928
+\i (00:02:40) roam start
+\i (00:02:40) roam y -16
+\i (00:02:40) roam y -16
+\i (00:02:40) roam x 16
+\i (00:02:41) roam y -16
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y -16
+\i (00:02:41) roam y -16
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y -32
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y -16
+\i (00:02:41) roam y -16
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y -16
+\i (00:02:41) roam y -16
+\i (00:02:41) zoom out 1 
+\i (00:02:41) setwindow pcb
+\i (00:02:41) zoom out 5409.958 708.480
+\i (00:02:41) trapsize 3857
+\i (00:02:41) roam y -16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x -16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x -16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x -16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam y 16
+\i (00:02:41) zoom in 1 
+\i (00:02:41) setwindow pcb
+\i (00:02:41) zoom in 5372.161 603.189
+\i (00:02:41) trapsize 1928
+\i (00:02:41) roam y 32
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x -16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x -16
+\i (00:02:42) roam y 16
+\i (00:02:42) roam y 16
+\i (00:02:42) roam x -16
+\i (00:02:42) roam y 16
+\i (00:02:42) roam x -16
+\i (00:02:42) roam y 16
+\i (00:02:42) roam y 16
+\i (00:02:42) roam x -16
+\i (00:02:42) roam y 16
+\i (00:02:42) roam x -16
+\i (00:02:42) roam y 16
+\i (00:02:42) roam x -16
+\i (00:02:42) roam y 16
+\i (00:02:42) roam y 16
+\i (00:02:42) roam x -16
+\i (00:02:42) roam y 16
+\i (00:02:42) roam end
+\i (00:02:43) roam start
+\i (00:02:43) roam x 16
+\i (00:02:43) roam x 16
+\i (00:02:43) roam y 16
+\i (00:02:43) roam x 16
+\i (00:02:43) roam x 16
+\i (00:02:43) roam y 16
+\i (00:02:43) roam x -16
+\i (00:02:43) roam x -16
+\i (00:02:43) roam x -32
+\i (00:02:43) roam x -16
+\i (00:02:43) roam x -32
+\i (00:02:43) roam x -48
+\i (00:02:43) roam y -16
+\i (00:02:43) roam x -48
+\i (00:02:43) roam x -48
+\i (00:02:43) roam x -32
+\i (00:02:43) roam x -64
+\i (00:02:43) roam y -16
+\i (00:02:43) roam x -32
+\i (00:02:43) roam x -64
+\i (00:02:43) roam y -16
+\i (00:02:43) roam x -32
+\i (00:02:43) roam x -64
+\i (00:02:43) roam y -16
+\i (00:02:43) roam x -32
+\i (00:02:43) roam y -16
+\i (00:02:43) roam x -48
+\i (00:02:43) roam x -32
+\i (00:02:43) roam y -16
+\i (00:02:43) roam x -48
+\i (00:02:43) roam y -16
+\i (00:02:43) roam x -32
+\i (00:02:43) roam x -16
+\i (00:02:43) roam y -16
+\i (00:02:43) roam x -32
+\i (00:02:43) roam y -32
+\i (00:02:43) roam x -32
+\i (00:02:43) roam y -16
+\i (00:02:43) roam x -16
+\i (00:02:43) roam y -16
+\i (00:02:43) roam y -32
+\i (00:02:43) roam x -16
+\i (00:02:43) roam y -32
+\i (00:02:43) roam y -32
+\i (00:02:43) roam y -16
+\i (00:02:43) roam y -32
+\i (00:02:44) roam x 16
+\i (00:02:44) roam y -16
+\i (00:02:44) roam x 16
+\i (00:02:44) roam y -48
+\i (00:02:44) roam end
+\i (00:02:44) roam start
+\i (00:02:44) roam y -16
+\i (00:02:44) roam y -16
+\i (00:02:44) roam end
+\i (00:02:44) roam start
+\i (00:02:44) roam y -16
+\i (00:02:45) roam x -16
+\i (00:02:45) roam y -16
+\i (00:02:45) roam x -16
+\i (00:02:45) roam y -16
+\i (00:02:45) roam x -16
+\i (00:02:45) roam y -16
+\i (00:02:45) roam x -16
+\i (00:02:45) roam y -32
+\i (00:02:45) roam y -16
+\i (00:02:45) roam x -16
+\i (00:02:45) roam y -16
+\i (00:02:45) roam end
+\i (00:02:45) roam start
+\i (00:02:45) roam x -16
+\i (00:02:45) roam x -32
+\i (00:02:45) roam x -48
+\i (00:02:45) roam x -32
+\i (00:02:45) roam x -32
+\i (00:02:45) roam x -32
+\i (00:02:45) roam x -32
+\i (00:02:45) roam x -16
+\i (00:02:45) roam x -32
+\i (00:02:45) roam x -48
+\i (00:02:45) roam x -32
+\i (00:02:45) roam x -32
+\i (00:02:45) roam x -32
+\i (00:02:45) roam x -48
+\i (00:02:45) roam x -48
+\i (00:02:45) roam x -16
+\i (00:02:45) roam x -16
+\i (00:02:45) roam x -16
+\i (00:02:45) roam x -16
+\i (00:02:45) roam end
+\i (00:02:46) pick grid 4821.406 629.416
+\t (00:02:46) last pick:  4820.000 630.000
+\i (00:02:47) pick grid 4832.977 640.600
+\t (00:02:47) last pick:  4835.000 640.000
+\i (00:02:47) pick grid dbl 4832.977 640.600
+\t (00:02:47) last pick:  4835.000 640.000
+\i (00:04:02) skill 'loadi "silkscreen_placement.il"' 
+   (00:04:02) function getBoardOutline redefined
+   (00:04:02) function updateTextPosition redefined
+   (00:04:02) function silkscreenForm_Action redefined
+   (00:04:02) function createSilkscreenForm redefined
+   (00:04:02) t
+\i (00:04:12) optimize_silkscreen 
+\i (00:04:12) generaledit 
+\i (00:04:15) setwindow form.silkscreenForm
+\i (00:04:15) FORM silkscreenForm silktop YES 
+\i (00:04:17) FORM silkscreenForm done  
+\t (00:04:17) Silkscreen optimization started.
+   (00:04:17) *Error* return: return can only be used within a prog
+\i (00:04:31) FORM silkscreenForm cancel  
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom out 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom out 4752.755 661.427
+\i (00:04:32) trapsize 3857
+\i (00:04:32) zoom out 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom out 4752.755 662.199
+\i (00:04:32) trapsize 7714
+\i (00:04:32) zoom out 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom out 4752.755 662.199
+\i (00:04:32) trapsize 15427
+\i (00:04:32) zoom out 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom out 4752.754 662.199
+\i (00:04:32) trapsize 30855
+\i (00:04:33) zoom out 1 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) zoom out 3376.639 1674.230
+\i (00:04:33) trapsize 61709
+\i (00:04:33) zoom out 1 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) zoom out 3351.956 1674.229
+\i (00:04:33) trapsize 123418
+\i (00:04:36) QtSignal CVPLayerGrid CVPAll_LayersVia clicked true
+\i (00:04:37) zoom in 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom in 3623.477 2612.210
+\i (00:04:37) trapsize 61709
+\i (00:04:37) zoom in 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom in 3043.411 2513.476
+\i (00:04:37) trapsize 30855
+\i (00:04:38) zoom out 1 
+\i (00:04:38) setwindow pcb
+\i (00:04:38) zoom out 2531.225 2377.716
+\i (00:04:38) trapsize 61709
+\i (00:04:39) QtSignal CVPLayerGrid CVPAll_LayersPin clicked true
+\i (00:04:40) QtSignal CVPLayerGrid CVPAll_LayersVia clicked false
+\i (00:04:40) zoom in 1 
+\i (00:04:40) setwindow pcb
+\i (00:04:40) zoom in 4851.491 1772.966
+\i (00:04:40) trapsize 30855
+\i (00:04:41) zoom in 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom in 3493.888 1458.249
+\i (00:04:41) trapsize 15427
+\i (00:04:41) zoom in 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom in 3472.290 1445.907
+\i (00:04:41) trapsize 7714
+\i (00:04:41) zoom in 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom in 3910.425 1490.647
+\i (00:04:41) trapsize 3857
+\i (00:04:43) zoom out 1 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom out 4575.342 1511.474
+\i (00:04:43) trapsize 7714
+\i (00:04:45) setwindow form.mini
+\i (00:04:45) FORM mini subcolor 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out 3870.315 1582.440
+\i (00:04:46) trapsize 15427
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out 3891.914 1563.927
+\i (00:04:46) trapsize 30855
+\i (00:04:47) zoom in 1 
+\i (00:04:47) setwindow pcb
+\i (00:04:47) zoom in 2676.242 915.981
+\i (00:04:47) trapsize 15427
+\i (00:04:47) zoom in 1 
+\i (00:04:47) setwindow pcb
+\i (00:04:47) zoom in 2386.209 774.050
+\i (00:04:47) trapsize 7714
+\i (00:04:47) zoom in 1 
+\i (00:04:47) setwindow pcb
+\i (00:04:47) zoom in 2383.123 787.935
+\i (00:04:47) trapsize 3857
+\i (00:04:52) QtSignal CVPLayerGrid CVPAll_LayersPin clicked false
+\i (00:04:53) zoom out 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom out 2796.575 922.924
+\i (00:04:53) trapsize 7714
+\i (00:04:53) zoom out 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom out 2796.574 921.381
+\i (00:04:53) trapsize 15427
+\i (00:04:53) zoom out 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom out 2796.576 921.381
+\i (00:04:53) trapsize 30855
+\i (00:04:53) zoom out 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom out 2796.575 915.210
+\i (00:04:53) trapsize 61709
+\i (00:04:53) zoom out 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom out 2821.260 878.185
+\i (00:04:53) trapsize 123418
+\i (00:04:53) zoom in 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom in 8374.320 878.185
+\i (00:04:53) trapsize 61709
+\i (00:04:53) zoom in 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom in 5535.696 1223.756
+\i (00:04:53) trapsize 30855
+\i (00:04:54) zoom in 1 
+\i (00:04:54) setwindow pcb
+\i (00:04:54) zoom in 3900.402 1174.389
+\i (00:04:54) trapsize 15427
+\i (00:04:54) zoom in 1 
+\i (00:04:54) setwindow pcb
+\i (00:04:54) zoom in 3900.402 1174.389
+\i (00:04:54) trapsize 7714
+\i (00:04:54) zoom out 1 
+\i (00:04:54) setwindow pcb
+\i (00:04:54) zoom out 3940.513 1172.847
+\i (00:04:54) trapsize 15427
+\i (00:04:55) roam start
+\i (00:04:55) roam y 16
+\i (00:04:55) roam x 32
+\i (00:04:55) roam y 16
+\i (00:04:55) roam x 32
+\i (00:04:55) roam y 16
+\i (00:04:55) roam y 16
+\i (00:04:55) roam x 16
+\i (00:04:55) roam x 16
+\i (00:04:55) roam y 32
+\i (00:04:55) roam x 32
+\i (00:04:55) roam y 16
+\i (00:04:55) roam x 16
+\i (00:04:55) roam y 32
+\i (00:04:55) roam x 32
+\i (00:04:55) roam y 32
+\i (00:04:55) roam x 32
+\i (00:04:55) roam y 32
+\i (00:04:55) roam x 16
+\i (00:04:55) roam y 16
+\i (00:04:55) roam y -16
+\i (00:04:55) roam x -16
+\i (00:04:55) roam y -16
+\i (00:04:55) roam x -32
+\i (00:04:55) roam y -16
+\i (00:04:55) roam x -16
+\i (00:04:55) roam y -32
+\i (00:04:55) roam x -16
+\i (00:04:55) roam y -32
+\i (00:04:55) roam x -32
+\i (00:04:55) roam y -32
+\i (00:04:55) roam x -32
+\i (00:04:55) roam y -16
+\i (00:04:55) roam x -16
+\i (00:04:55) roam y -16
+\i (00:04:55) roam x -32
+\i (00:04:55) roam x -16
+\i (00:04:55) roam y -16
+\i (00:04:55) roam x -32
+\i (00:04:55) roam y -16
+\i (00:04:55) roam x -16
+\i (00:04:55) roam y -32
+\i (00:04:55) roam x -16
+\i (00:04:55) roam x -48
+\i (00:04:55) roam y -32
+\i (00:04:55) roam x -32
+\i (00:04:55) roam y -32
+\i (00:04:55) roam x -48
+\i (00:04:55) roam y -32
+\i (00:04:55) roam x -16
+\i (00:04:55) roam y -16
+\i (00:04:55) roam x -32
+\i (00:04:55) roam y -16
+\i (00:04:55) roam x -16
+\i (00:04:55) roam x -16
+\i (00:04:55) roam x -16
+\i (00:04:55) roam x -16
+\i (00:04:56) roam y -16
+\i (00:04:56) roam x -16
+\i (00:04:56) roam x -16
+\i (00:04:56) zoom in 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom in 2962.421 1669.218
+\i (00:04:56) trapsize 7714
+\i (00:04:56) roam y -16
+\i (00:04:56) roam end
+\t (00:04:56) Pick to complete the window.
+\i (00:04:58) pick 2486.027 1632.808
+\t (00:04:58) last pick:  2486.027 1632.808
+\i (00:04:58) setwindow pcb
+\i (00:04:58) zoom points
+\i (00:04:58) pick -71.203 48.115
+\i (00:04:58) pick 6366.302 3049.651
+\i (00:04:58) trapsize 24684
+\i (00:04:59) zoom in 1 
+\i (00:04:59) setwindow pcb
+\i (00:04:59) zoom in 3290.715 1593.314
+\i (00:04:59) trapsize 12342
+\i (00:04:59) roam start
+\i (00:04:59) roam y 16
+\i (00:04:59) roam x -32
+\i (00:04:59) roam y 32
+\i (00:04:59) roam x -48
+\i (00:04:59) roam y 16
+\i (00:04:59) roam x -32
+\i (00:04:59) roam y 16
+\i (00:04:59) roam x -32
+\i (00:04:59) roam y 16
+\i (00:04:59) roam x -32
+\i (00:04:59) roam y 16
+\i (00:04:59) roam x -32
+\i (00:05:00) roam end
+\i (00:05:00) drag_start grid 2857.511 1472.981
+\i (00:05:00) drag_stop 2877.258 1322.410
+\i (00:05:01) roam start
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 64
+\i (00:05:01) roam y 32
+\i (00:05:01) roam x 48
+\i (00:05:01) roam y 32
+\i (00:05:01) roam x 32
+\i (00:05:01) roam y 16
+\i (00:05:01) roam x 32
+\i (00:05:01) roam y 16
+\i (00:05:01) roam x 32
+\i (00:05:01) roam y 16
+\i (00:05:01) roam x 16
+\i (00:05:01) roam y 16
+\i (00:05:01) roam x 16
+\i (00:05:01) roam x 16
+\i (00:05:02) roam x -16
+\i (00:05:02) roam y -16
+\i (00:05:02) roam x -16
+\i (00:05:02) roam y -16
+\i (00:05:02) roam y -16
+\i (00:05:02) roam x -16
+\i (00:05:02) roam y -16
+\i (00:05:02) roam end
+\t (00:05:02) Pick to complete the window.
+\i (00:05:09) pick 3555.961 1556.017
+\t (00:05:09) last pick:  3555.961 1556.017
+\i (00:05:09) setwindow pcb
+\i (00:05:09) zoom points
+\i (00:05:09) pick -218.864 -486.014
+\i (00:05:09) pick 6733.638 2755.643
+\i (00:05:09) trapsize 26658
+\i (00:05:09) zoom in 1 
+\i (00:05:09) setwindow pcb
+\i (00:05:09) zoom in 3838.539 1038.845
+\i (00:05:09) trapsize 13329
+\i (00:05:10) zoom in 1 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom in 3670.592 1017.519
+\i (00:05:10) trapsize 6665
+\i (00:05:12) QtSignal CVPLayerGrid CVPAll_LayersVia clicked true
+\i (00:05:13) QtSignal CVPLayerGrid CVPAll_LayersVia clicked false
+\i (00:05:13) QtSignal CVPLayerGrid CVPAll_LayersPin clicked true
+\i (00:05:16) zoom out 1 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) zoom out 3590.617 1066.838
+\i (00:05:16) trapsize 13329
+\i (00:05:16) zoom out 1 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) zoom out 3574.621 1058.840
+\i (00:05:16) trapsize 26658
+\i (00:05:17) zoom in 1 
+\i (00:05:17) setwindow pcb
+\i (00:05:17) zoom in 3030.790 973.533
+\i (00:05:17) trapsize 13329
+\i (00:12:18) skill 'loadi "silkscreen_placement.il"' 
+   (00:12:18) function OptimizeSilkscreen redefined
+   (00:12:18) function doSilkscreenOpt redefined
+   (00:12:18) function getBoardOutline redefined
+   (00:12:18) 
+   (00:12:18) ) ;end defun - getBoardOutline
+   (00:12:18) ^
+   (00:12:18) PARSER WARNING at line 170 column 1 of file silkscreen_placement.il
+   (00:12:18) *WARNING* (Parser): extra ')' ignored
+   (00:12:18) function optimizeSilkscreenPlacement redefined
+   (00:12:18) function getComponentPosition redefined
+   (00:12:18) 
+   (00:12:18) ) ;end defun - getComponentPosition
+   (00:12:18) ^
+   (00:12:18) PARSER WARNING at line 263 column 1 of file silkscreen_placement.il
+   (00:12:18) *WARNING* (Parser): extra ')' ignored
+   (00:12:18) function findPositionNearComponent redefined
+   (00:12:18) 
+   (00:12:18) ) ;end defun - findPositionNearComponent
+   (00:12:18) ^
+   (00:12:18) PARSER WARNING at line 319 column 1 of file silkscreen_placement.il
+   (00:12:18) *WARNING* (Parser): extra ')' ignored
+   (00:12:18) function findEmptySpaceInArea redefined
+   (00:12:18) 
+   (00:12:18) ) ;end defun - findEmptySpaceInArea
+   (00:12:18) ^
+   (00:12:18) PARSER WARNING at line 386 column 1 of file silkscreen_placement.il
+   (00:12:18) *WARNING* (Parser): extra ')' ignored
+   (00:12:18) function findPositionOutsideBoard redefined
+   (00:12:18) 
+   (00:12:18) ) ;end defun - findPositionOutsideBoard
+   (00:12:18) ^
+   (00:12:18) PARSER WARNING at line 431 column 1 of file silkscreen_placement.il
+   (00:12:18) *WARNING* (Parser): extra ')' ignored
+   (00:12:18) function isValidTextPosition redefined
+   (00:12:18) 
+   (00:12:18) ) ;end defun - isValidTextPosition
+   (00:12:18) ^
+   (00:12:18) PARSER WARNING at line 465 column 1 of file silkscreen_placement.il
+   (00:12:18) *WARNING* (Parser): extra ')' ignored
+   (00:12:18) function hasNoCopperOverlap redefined
+   (00:12:18) 
+   (00:12:18) ) ;end defun - hasNoCopperOverlap
+   (00:12:18) ^
+   (00:12:18) PARSER WARNING at line 502 column 1 of file silkscreen_placement.il
+   (00:12:18) *WARNING* (Parser): extra ')' ignored
+   (00:12:18) function getTextDimensions redefined
+   (00:12:18) 
+   (00:12:18) ) ;end defun - getTextDimensions
+   (00:12:18) ^
+   (00:12:18) PARSER WARNING at line 519 column 1 of file silkscreen_placement.il
+   (00:12:18) *WARNING* (Parser): extra ')' ignored
+   (00:12:18) function updateTextPosition redefined
+   (00:12:18) function silkscreenForm_Action redefined
+   (00:12:18) function createSilkscreenForm redefined
+   (00:12:18) t
+\i (00:12:47) settoggle smooth_mode Off Minimal Full 
+\i (00:12:47) options smooth_level Off 
+\i (00:12:47) trapsize 13329
+\i (00:12:47) generaledit 
+\i (00:16:59) skill 'loadi "JK_claude_silkscreenPlacementRules.il"' 
+   (00:16:59) function init_globals redefined
+   (00:16:59) function SilkscreenPlacementRules redefined
+   (00:16:59) function performSilkscreenPlacement redefined
+   (00:16:59) function processSilkscreenText redefined
+   (00:16:59) function findSpaceNearComponent redefined
+   (00:16:59) function findEmptySpaceOnBoard redefined
+   (00:16:59) function findSpaceOutsideBoard redefined
+   (00:16:59) function isValidPosition redefined
+   (00:16:59) function isWithinBoardOutline redefined
+   (00:16:59) function hasCopperClearance redefined
+   (00:16:59) function hasComponentClearance redefined
+   (00:16:59) function getBoardOutline redefined
+   (00:16:59) function getCopperObjects redefined
+   (00:16:59) function getComponents redefined
+   (00:16:59) function getSilkscreenTexts redefined
+   (00:16:59) function updateTextPosition redefined
+   (00:16:59) function updateTextRotation redefined
+   (00:16:59) function silkscreenForm_Action redefined
+   (00:16:59) function createSilkscreenForm redefined
+   (00:16:59) t
+\i (00:17:20) place_silkscreen 
+\i (00:17:21) generaledit 
+\i (00:17:23) setwindow form.silkscreenPlacementForm
+\i (00:17:23) FORM silkscreenPlacementForm done  
+   (00:17:23) *Error* return: return can only be used within a prog
+\i (00:21:53) FORM silkscreenPlacementForm cancel  
+\i (00:26:43) setwindow pcb
+\i (00:26:43) skill 'loadi "silkscreen_placement.il"' 
+   (00:26:43) function OptimizeSilkscreen redefined
+   (00:26:43) function doSilkscreenOpt redefined
+   (00:26:43) function getBoardOutline redefined
+   (00:26:43) 
+   (00:26:43) ) ;end defun - getBoardOutline
+   (00:26:43) ^
+   (00:26:43) PARSER WARNING at line 170 column 1 of file silkscreen_placement.il
+   (00:26:43) *WARNING* (Parser): extra ')' ignored
+   (00:26:43) function optimizeSilkscreenPlacement redefined
+   (00:26:43) function getComponentPosition redefined
+   (00:26:43) 
+   (00:26:43) ) ;end defun - getComponentPosition
+   (00:26:43) ^
+   (00:26:43) PARSER WARNING at line 263 column 1 of file silkscreen_placement.il
+   (00:26:43) *WARNING* (Parser): extra ')' ignored
+   (00:26:43) function findPositionNearComponent redefined
+   (00:26:43) 
+   (00:26:43) ) ;end defun - findPositionNearComponent
+   (00:26:43) ^
+   (00:26:43) PARSER WARNING at line 319 column 1 of file silkscreen_placement.il
+   (00:26:43) *WARNING* (Parser): extra ')' ignored
+   (00:26:43) function findEmptySpaceInArea redefined
+   (00:26:43) 
+   (00:26:43) ) ;end defun - findEmptySpaceInArea
+   (00:26:43) ^
+   (00:26:43) PARSER WARNING at line 386 column 1 of file silkscreen_placement.il
+   (00:26:43) *WARNING* (Parser): extra ')' ignored
+   (00:26:43) function findPositionOutsideBoard redefined
+   (00:26:43) 
+   (00:26:43) ) ;end defun - findPositionOutsideBoard
+   (00:26:43) ^
+   (00:26:43) PARSER WARNING at line 431 column 1 of file silkscreen_placement.il
+   (00:26:43) *WARNING* (Parser): extra ')' ignored
+   (00:26:43) function isValidTextPosition redefined
+   (00:26:43) 
+   (00:26:43) ) ;end defun - isValidTextPosition
+   (00:26:43) ^
+   (00:26:43) PARSER WARNING at line 465 column 1 of file silkscreen_placement.il
+   (00:26:43) *WARNING* (Parser): extra ')' ignored
+   (00:26:43) function hasNoCopperOverlap redefined
+   (00:26:43) 
+   (00:26:43) ) ;end defun - hasNoCopperOverlap
+   (00:26:43) ^
+   (00:26:43) PARSER WARNING at line 502 column 1 of file silkscreen_placement.il
+   (00:26:43) *WARNING* (Parser): extra ')' ignored
+   (00:26:43) function getTextDimensions redefined
+   (00:26:43) 
+   (00:26:43) ) ;end defun - getTextDimensions
+   (00:26:43) ^
+   (00:26:43) PARSER WARNING at line 519 column 1 of file silkscreen_placement.il
+   (00:26:43) *WARNING* (Parser): extra ')' ignored
+   (00:26:43) function updateTextPosition redefined
+   (00:26:43) function silkscreenForm_Action redefined
+   (00:26:43) function createSilkscreenForm redefined
+   (00:26:43) t
+\i (00:30:07) trapsize 50822
+\i (00:32:18) skill 'loadi "silkscreen_placement.il"' 
+   (00:32:18) function OptimizeSilkscreen redefined
+   (00:32:18) function doSilkscreenOpt redefined
+   (00:32:18) function getBoardOutline redefined
+   (00:32:18) function optimizeSilkscreenPlacement redefined
+   (00:32:18) function getComponentPosition redefined
+   (00:32:18) function findPositionNearComponent redefined
+   (00:32:18) function findEmptySpaceInArea redefined
+   (00:32:18) function findPositionOutsideBoard redefined
+   (00:32:18) function isValidTextPosition redefined
+   (00:32:18) function hasNoCopperOverlap redefined
+   (00:32:18) function getTextDimensions redefined
+   (00:32:18) function updateTextPosition redefined
+   (00:32:18) function silkscreenForm_Action redefined
+   (00:32:18) function createSilkscreenForm redefined
+   (00:32:18) t
+\i (00:32:27) optimize_silkscreen 
+\i (00:32:27) generaledit 
+\i (00:32:29) setwindow form.silkscreenForm
+\i (00:32:29) FORM silkscreenForm silktop YES 
+\i (00:32:30) FORM silkscreenForm done  
+\t (00:32:30) Silkscreen optimization started.
+   (00:32:30) *Error* eval: unbound variable - prog
+\i (00:33:03) FORM silkscreenForm cancel  
+\i (00:34:12) setwindow pcb
+\i (00:34:12) skill 'loadi "JK_claude_silkscreenPlacementRules.il"' 
+   (00:34:12) function init_globals redefined
+   (00:34:12) function SilkscreenPlacementRules redefined
+   (00:34:12) function performSilkscreenPlacement redefined
+   (00:34:12) function processSilkscreenText redefined
+   (00:34:12) function findSpaceNearComponent redefined
+   (00:34:12) function findEmptySpaceOnBoard redefined
+   (00:34:12) function findSpaceOutsideBoard redefined
+   (00:34:12) function isValidPosition redefined
+   (00:34:12) function isWithinBoardOutline redefined
+   (00:34:12) function hasCopperClearance redefined
+   (00:34:12) function hasComponentClearance redefined
+   (00:34:12) function getBoardOutline redefined
+   (00:34:12) function getCopperObjects redefined
+   (00:34:12) function getComponents redefined
+   (00:34:12) function getSilkscreenTexts redefined
+   (00:34:12) function updateTextPosition redefined
+   (00:34:12) function updateTextRotation redefined
+   (00:34:12) function silkscreenForm_Action redefined
+   (00:34:12) function createSilkscreenForm redefined
+   (00:34:12) t
+\i (00:34:58) place_silkscreen 
+\i (00:34:59) generaledit 
+\i (00:35:00) setwindow form.silkscreenPlacementForm
+\i (00:35:00) FORM silkscreenPlacementForm done  
+   (00:35:00) *Error* return: return can only be used within a prog
+\i (00:35:04) FORM silkscreenPlacementForm cancel  
+\i (00:36:12) setwindow pcb
+\i (00:36:12) skill 'loadi "silkscreen_placement.il"' 
+   (00:36:12) function OptimizeSilkscreen redefined
+   (00:36:12) function doSilkscreenOpt redefined
+   (00:36:12) function getBoardOutline redefined
+   (00:36:12) function optimizeSilkscreenPlacement redefined
+   (00:36:12) function getComponentPosition redefined
+   (00:36:12) function findPositionNearComponent redefined
+   (00:36:12) function findEmptySpaceInArea redefined
+   (00:36:12) function findPositionOutsideBoard redefined
+   (00:36:12) function isValidTextPosition redefined
+   (00:36:12) function hasNoCopperOverlap redefined
+   (00:36:12) function getTextDimensions redefined
+   (00:36:12) function updateTextPosition redefined
+   (00:36:12) function silkscreenForm_Action redefined
+   (00:36:12) function createSilkscreenForm redefined
+   (00:36:12) t
+\i (00:36:22) optimize_silkscreen 
+\i (00:36:22) generaledit 
+\i (00:36:24) setwindow form.silkscreenForm
+\i (00:36:24) FORM silkscreenForm silktop YES 
+\i (00:36:25) FORM silkscreenForm done  
+\t (00:36:25) Silkscreen optimization started.
+   (00:36:25) *Error* prog: too few arguments (at least 2 expected, 1 given) - ((outline nil))
+\i (00:36:36) FORM silkscreenForm cancel  
+\i (00:39:07) setwindow pcb
+\i (00:39:07) skill 'loadi "silkscreen_placement.il"' 
+   (00:39:07) function OptimizeSilkscreen redefined
+   (00:39:07) function doSilkscreenOpt redefined
+   (00:39:07) function getBoardOutline redefined
+   (00:39:07) function optimizeSilkscreenPlacement redefined
+   (00:39:07) function getComponentPosition redefined
+   (00:39:07) function findPositionNearComponent redefined
+   (00:39:07) function findEmptySpaceInArea redefined
+   (00:39:07) function findPositionOutsideBoard redefined
+   (00:39:07) function isValidTextPosition redefined
+   (00:39:07) function hasNoCopperOverlap redefined
+   (00:39:07) function getTextDimensions redefined
+   (00:39:07) function updateTextPosition redefined
+   (00:39:07) function silkscreenForm_Action redefined
+   (00:39:07) function createSilkscreenForm redefined
+   (00:39:07) t
+\i (00:39:08) optimize_silkscreen 
+\i (00:39:09) generaledit 
+\i (00:39:10) setwindow form.silkscreenForm
+\i (00:39:10) FORM silkscreenForm silktop YES 
+\i (00:39:11) FORM silkscreenForm done  
+\t (00:39:11) Silkscreen optimization started.
+\t (00:39:11) REF DES/SILKSCREEN_TOP optimization completed.
+\i (00:39:13) setwindow pcb
+\i (00:39:13) zoom in 1 
+\i (00:39:13) setwindow pcb
+\i (00:39:13) zoom in 2969.773 1058.591
+\i (00:39:13) trapsize 25411
+\i (00:39:13) zoom in 1 
+\i (00:39:13) setwindow pcb
+\i (00:39:13) zoom in 2964.691 1012.851
+\i (00:39:13) trapsize 12706
+\i (00:39:13) zoom in 1 
+\i (00:39:13) setwindow pcb
+\i (00:39:13) zoom in 2964.691 1012.851
+\i (00:39:13) trapsize 6353
+\i (00:39:13) zoom in 1 
+\i (00:39:13) setwindow pcb
+\i (00:39:13) zoom in 2964.691 1012.851
+\i (00:39:13) trapsize 3176
+\i (00:39:13) zoom out 1 
+\i (00:39:13) setwindow pcb
+\i (00:39:13) zoom out 2972.314 1045.886
+\i (00:39:13) trapsize 6353
+\i (00:39:14) zoom out 1 
+\i (00:39:14) setwindow pcb
+\i (00:39:14) zoom out 2972.314 1045.886
+\i (00:39:14) trapsize 12706
+\i (00:39:18) trapsize 3332
+\i (00:39:19) zoom in 1 
+\i (00:39:19) setwindow pcb
+\i (00:39:19) zoom in 2900.302 880.031
+\i (00:39:19) trapsize 1666
+\i (00:39:19) zoom out 1 
+\i (00:39:19) setwindow pcb
+\i (00:39:19) zoom out 2900.302 880.032
+\i (00:39:19) trapsize 3332
+\i (00:39:19) zoom out 1 
+\i (00:39:19) setwindow pcb
+\i (00:39:19) zoom out 2900.302 880.031
+\i (00:39:19) trapsize 6665
+\i (00:39:20) zoom out 1 
+\i (00:39:20) setwindow pcb
+\i (00:39:20) zoom out 2900.301 880.031
+\i (00:39:20) trapsize 13329
+\i (00:39:20) zoom out 1 
+\i (00:39:20) setwindow pcb
+\i (00:39:20) zoom out 2900.302 880.031
+\i (00:39:20) trapsize 26658
+\i (00:39:21) zoom in 1 
+\i (00:39:21) setwindow pcb
+\i (00:39:21) zoom in 1860.628 1066.640
+\i (00:39:21) trapsize 13329
+\i (00:39:28) optimize_silkscreen 
+\i (00:39:28) generaledit 
+\i (00:39:30) setwindow form.silkscreenForm
+\i (00:39:30) FORM silkscreenForm silktop YES 
+\i (00:39:30) FORM silkscreenForm done  
+\t (00:39:30) Silkscreen optimization started.
+\t (00:39:30) REF DES/SILKSCREEN_TOP optimization completed.
+\i (00:39:32) setwindow pcb
+\i (00:39:32) zoom in 1 
+\i (00:39:32) setwindow pcb
+\i (00:39:32) zoom in 2031.241 1325.226
+\i (00:39:32) trapsize 6665
+\i (00:39:33) zoom out 1 
+\i (00:39:33) setwindow pcb
+\i (00:39:33) zoom out 2029.908 1315.895
+\i (00:39:33) trapsize 13329
+\i (00:39:36) optimize_silkscreen 
+\i (00:39:36) generaledit 
+\i (00:39:41) setwindow form.silkscreenForm
+\i (00:39:41) FORM silkscreenForm lrtb YES 
+\i (00:39:41) FORM silkscreenForm done  
+\t (00:39:41) Silkscreen optimization started.
+\i (00:39:43) setwindow pcb
+\i (00:39:43) zoom out 1 
+\i (00:39:43) setwindow pcb
+\i (00:39:43) zoom out 1824.640 854.708
+\i (00:39:43) trapsize 26658
+\i (00:39:43) zoom out 1 
+\i (00:39:43) setwindow pcb
+\i (00:39:43) zoom out 1824.641 854.707
+\i (00:39:43) trapsize 53317
+\i (00:39:43) zoom out 1 
+\i (00:39:43) setwindow pcb
+\i (00:39:43) zoom out 1824.640 854.708
+\i (00:39:43) trapsize 106633
+\i (00:39:44) zoom in 1 
+\i (00:39:44) setwindow pcb
+\i (00:39:44) zoom in 673.002 534.808
+\i (00:39:44) trapsize 53317
+\i (00:39:46) setwindow form.mini
+\i (00:39:46) FORM mini subcolor 1 
+\i (00:39:46) setwindow pcb
+\i (00:39:46) zoom in 1 
+\i (00:39:46) setwindow pcb
+\i (00:39:46) zoom in 2315.153 1462.516
+\i (00:39:46) trapsize 26658
+\i (00:39:46) zoom in 1 
+\i (00:39:46) setwindow pcb
+\i (00:39:46) zoom in 2251.174 1387.873
+\i (00:39:46) trapsize 13329
+\i (00:39:46) zoom in 1 
+\i (00:39:46) setwindow pcb
+\i (00:39:46) zoom in 2213.853 1350.552
+\i (00:39:46) trapsize 6665
+\i (00:39:46) zoom in 1 
+\i (00:39:46) setwindow pcb
+\i (00:39:46) zoom in 2208.521 1346.554
+\i (00:39:46) trapsize 3332
+\i (00:39:47) zoom out 1 
+\i (00:39:47) setwindow pcb
+\i (00:39:47) zoom out 2219.851 1349.220
+\i (00:39:47) trapsize 6665
+\i (00:39:47) zoom out 1 
+\i (00:39:47) setwindow pcb
+\i (00:39:47) zoom out 2221.184 1349.219
+\i (00:39:47) trapsize 13329
+\i (00:39:47) zoom in 1 
+\i (00:39:47) setwindow pcb
+\i (00:39:47) zoom in 2711.696 1223.926
+\i (00:39:47) trapsize 6665
+\i (00:39:50) optimize_silkscreen 
+\i (00:39:50) generaledit 
+\i (00:39:52) setwindow form.silkscreenForm
+\i (00:39:52) FORM silkscreenForm lrbt YES 
+\i (00:39:53) FORM silkscreenForm silktop YES 
+\i (00:39:54) FORM silkscreenForm done  
+\t (00:39:54) Silkscreen optimization started.
+\t (00:39:54) REF DES/SILKSCREEN_TOP optimization completed.
+\i (00:39:55) setwindow pcb
+\i (00:39:55) zoom out 1 
+\i (00:39:55) setwindow pcb
+\i (00:39:55) zoom out 2597.065 1094.634
+\i (00:39:55) trapsize 13329
+\i (00:39:55) zoom in 1 
+\i (00:39:55) setwindow pcb
+\i (00:39:55) zoom in 2591.734 1083.970
+\i (00:39:55) trapsize 6665
+\i (00:39:58) optimize_silkscreen 
+\i (00:39:58) generaledit 
+\i (00:39:59) setwindow form.silkscreenForm
+\i (00:39:59) FORM silkscreenForm lrtb YES 
+\i (00:40:00) FORM silkscreenForm silktop YES 
+\i (00:40:01) FORM silkscreenForm done  
+\t (00:40:01) Silkscreen optimization started.
+\t (00:40:01) REF DES/SILKSCREEN_TOP optimization completed.
+\i (00:40:04) setwindow pcb
+\i (00:40:04) optimize_silkscreen 
+\i (00:40:04) generaledit 
+\i (00:40:08) setwindow form.silkscreenForm
+\i (00:40:08) FORM silkscreenForm rlbt YES 
+\i (00:40:09) FORM silkscreenForm silktop YES 
+\i (00:40:10) FORM silkscreenForm done  
+\t (00:40:10) Silkscreen optimization started.
+\t (00:40:10) REF DES/SILKSCREEN_TOP optimization completed.
+\i (00:40:11) setwindow pcb
+\i (00:40:11) zoom out 1 
+\i (00:40:11) setwindow pcb
+\i (00:40:11) zoom out 2859.650 1209.264
+\i (00:40:11) trapsize 13329
+\i (00:40:14) optimize_silkscreen 
+\i (00:40:15) generaledit 
+\i (00:40:22) setwindow form.silkscreenForm
+\i (00:40:22) FORM silkscreenForm silktop YES 
+\i (00:40:23) setwindow pcb
+\i (00:40:23) zoom out 1 
+\i (00:40:23) setwindow pcb
+\i (00:40:23) zoom out 2425.120 1166.611
+\i (00:40:23) trapsize 26658
+\i (00:40:23) zoom out 1 
+\i (00:40:23) setwindow pcb
+\i (00:40:23) zoom out 2425.121 1155.948
+\i (00:40:23) trapsize 53317
+\i (00:40:24) zoom in 1 
+\i (00:40:24) setwindow pcb
+\i (00:40:24) zoom in 2425.120 1155.947
+\i (00:40:24) trapsize 26658
+\i (00:40:24) zoom in 1 
+\i (00:40:24) setwindow pcb
+\i (00:40:24) zoom in 2425.121 1155.948
+\i (00:40:24) trapsize 13329
+\i (00:40:24) zoom in 1 
+\i (00:40:24) setwindow pcb
+\i (00:40:24) zoom in 2425.121 1155.948
+\i (00:40:24) trapsize 6665
+\i (00:40:25) drag_start grid 2502.430 1438.526
+\i (00:40:25) move 
+\t (00:40:25) last pick:  2500.000 1440.000
+\t (00:40:25) Pick new location for the element(s).
+\i (00:40:25) drag_stop grid 2626.391 1434.528
+\i (00:40:25) generaledit 
+\i (00:40:26) drag_start grid 2605.064 1434.528
+\i (00:40:26) move 
+\t (00:40:26) last pick:  2605.000 1435.000
+\t (00:40:26) Pick new location for the element(s).
+\i (00:40:26) drag_stop grid 2807.667 1421.198
+\i (00:40:27) generaledit 
+\i (00:40:28) setwindow form.silkscreenForm
+\i (00:40:28) FORM silkscreenForm lrbt YES 
+\i (00:40:29) FORM silkscreenForm done  
+\t (00:40:29) Silkscreen optimization started.
+\t (00:40:29) REF DES/SILKSCREEN_TOP optimization completed.
+\i (00:40:35) setwindow pcb
+\i (00:40:35) drag_start grid 2812.999 1434.528
+\i (00:40:36) drag_stop 2750.352 1435.861
+\i (00:40:37) drag_start grid 2787.674 1425.197
+\i (00:40:37) drag_stop 2766.347 1273.245
+\i (00:40:38) drag_start grid 2734.357 1451.856
+\i (00:40:38) drag_stop 2888.975 1379.878
+\i (00:40:38) pick grid 2830.327 1425.197
+\t (00:40:38) last pick:  2830.000 1425.000
+\i (00:40:38) pick grid dbl 2835.659 1421.198
+\t (00:40:38) last pick:  2835.000 1420.000
+\i (00:40:39) pick grid 2815.665 1418.533
+\t (00:40:39) last pick:  2815.000 1420.000
+\i (00:40:39) drag_start grid 2717.029 1442.525
+\i (00:40:40) drag_stop 2902.304 1381.211
+\i (00:40:42) optimize_silkscreen 
+\i (00:40:42) generaledit 
+\i (00:40:44) setwindow form.silkscreenForm
+\i (00:40:44) FORM silkscreenForm silktop YES 
+\i (00:40:44) FORM silkscreenForm silkbot YES 
+\i (00:40:45) FORM silkscreenForm done  
+\t (00:40:45) Silkscreen optimization started.
+\t (00:40:45) REF DES/SILKSCREEN_BOTTOM optimization completed.
+\t (00:40:45) REF DES/SILKSCREEN_TOP optimization completed.
+\i (00:40:52) setwindow pcb
+\i (00:40:52) skill 'loadi "silkscreen_placement.il"' 
+   (00:40:52) function OptimizeSilkscreen redefined
+   (00:40:52) function doSilkscreenOpt redefined
+   (00:40:52) function getBoardOutline redefined
+   (00:40:52) function optimizeSilkscreenPlacement redefined
+   (00:40:52) function getComponentPosition redefined
+   (00:40:52) function findPositionNearComponent redefined
+   (00:40:52) function findEmptySpaceInArea redefined
+   (00:40:52) function findPositionOutsideBoard redefined
+   (00:40:52) function isValidTextPosition redefined
+   (00:40:52) function hasNoCopperOverlap redefined
+   (00:40:52) function getTextDimensions redefined
+   (00:40:52) function updateTextPosition redefined
+   (00:40:52) function silkscreenForm_Action redefined
+   (00:40:52) function createSilkscreenForm redefined
+   (00:40:52) t
+\i (00:40:53) optimize_silkscreen 
+\i (00:40:53) generaledit 
+\i (00:40:54) setwindow form.silkscreenForm
+\i (00:40:54) FORM silkscreenForm silktop YES 
+\i (00:40:59) FORM silkscreenForm lrtb YES 
+\i (00:41:01) FORM silkscreenForm done  
+\t (00:41:01) Silkscreen optimization started.
+\t (00:41:01) REF DES/SILKSCREEN_TOP optimization completed.
+\i (00:41:04) setwindow pcb
+\i (00:41:04) optimize_silkscreen 
+\i (00:41:04) generaledit 
+\i (00:41:06) setwindow form.silkscreenForm
+\i (00:41:06) FORM silkscreenForm rltb YES 
+\i (00:41:06) FORM silkscreenForm done  
+\t (00:41:06) Silkscreen optimization started.
+\i (00:41:09) setwindow pcb
+\i (00:41:09) roam y -96 
+\i (00:41:09) roam y -96
+\i (00:41:10) roam y -96 
+\i (00:41:10) roam y -96
+\i (00:41:14) optimize_silkscreen 
+\i (00:41:14) generaledit 
+\i (00:41:15) setwindow form.silkscreenForm
+\i (00:41:15) FORM silkscreenForm silktop YES 
+\i (00:41:16) FORM silkscreenForm done  
+\t (00:41:16) Silkscreen optimization started.
+\t (00:41:16) REF DES/SILKSCREEN_TOP optimization completed.
+\i (00:41:19) setwindow pcb
+\i (00:41:19) drag_start grid 2537.086 1554.392
+\i (00:41:19) drag_stop 2565.077 1526.401
+\i (00:41:20) drag_start grid 2559.745 1541.063
+\i (00:41:20) drag_stop 2606.397 1529.067
+\i (00:41:21) drag_start grid 2499.764 1563.723
+\i (00:41:21) move 
+\t (00:41:21) last pick:  2500.000 1565.000
+\t (00:41:21) Pick new location for the element(s).
+\i (00:41:21) drag_stop grid 2639.720 1507.740
+\i (00:41:21) generaledit 
+\i (00:41:22) drag_start grid 2674.376 1441.095
+\i (00:41:22) drag_stop 2750.352 1414.436
+\i (00:41:23) pick grid 2819.664 1430.431
+\t (00:41:23) last pick:  2820.000 1430.000
+\i (00:41:23) pick grid dbl 2816.998 1430.431
+\t (00:41:23) last pick:  2815.000 1430.000
+\i (00:41:25) drag_start grid 2818.331 1411.771
+\i (00:41:25) move 
+\t (00:41:25) last pick:  2820.000 1410.000
+\t (00:41:25) Pick new location for the element(s).
+\i (00:41:27) drag_stop grid 2486.435 1351.789
+\i (00:41:27) generaledit 
+\i (00:41:30) optimize_silkscreen 
+\i (00:41:30) generaledit 
+\i (00:41:32) setwindow form.silkscreenForm
+\i (00:41:32) FORM silkscreenForm silktop YES 
+\i (00:41:33) FORM silkscreenForm silkbot YES 
+\i (00:41:34) FORM silkscreenForm lrbt YES 
+\i (00:41:34) FORM silkscreenForm done  
+\t (00:41:34) Silkscreen optimization started.
+\t (00:41:34) REF DES/SILKSCREEN_BOTTOM optimization completed.
+\t (00:41:34) REF DES/SILKSCREEN_TOP optimization completed.
+\i (00:41:39) setwindow pcb
+\i (00:41:39) zoom out 1 
+\i (00:41:39) setwindow pcb
+\i (00:41:39) zoom out 2409.126 1349.124
+\i (00:41:39) trapsize 13329
+\i (00:41:39) zoom out 1 
+\i (00:41:39) setwindow pcb
+\i (00:41:39) zoom out 2409.126 1349.123
+\i (00:41:39) trapsize 26658
+\i (00:41:39) zoom out 1 
+\i (00:41:39) setwindow pcb
+\i (00:41:39) zoom out 2409.127 1349.124
+\i (00:41:39) trapsize 53317
+\i (00:41:39) zoom in 1 
+\i (00:41:39) setwindow pcb
+\i (00:41:39) zoom in 1822.644 1402.440
+\i (00:41:39) trapsize 26658
+\i (00:41:39) zoom in 1 
+\i (00:41:39) setwindow pcb
+\i (00:41:39) zoom in 1822.645 1402.440
+\i (00:41:39) trapsize 13329
+\i (00:41:39) zoom in 1 
+\i (00:41:39) setwindow pcb
+\i (00:41:39) zoom in 1819.979 1402.440
+\i (00:41:39) trapsize 6665
+\i (00:41:41) roam start
+\i (00:41:41) roam y -16
+\i (00:41:41) roam x -16
+\i (00:41:41) roam y -16
+\i (00:41:42) roam x -32
+\i (00:41:42) roam y -16
+\i (00:41:42) roam y 32
+\i (00:41:42) roam x 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam x 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam x 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam x 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam x 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam x 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam x 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam x 16
+\i (00:41:42) roam x 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam x 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam x 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam x 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam x 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam x 16
+\i (00:41:42) roam y 16
+\i (00:41:42) roam y 16
+\i (00:41:43) roam x 16
+\i (00:41:43) roam y -16
+\i (00:41:43) roam x 32
+\i (00:41:43) roam x 16
+\i (00:41:43) roam y -32
+\i (00:41:43) roam x 16
+\i (00:41:43) roam y -16
+\i (00:41:43) roam x 16
+\i (00:41:43) roam y -32
+\i (00:41:43) roam x 16
+\i (00:41:43) roam y -16
+\i (00:41:43) roam x 16
+\i (00:41:43) roam y -32
+\i (00:41:43) roam x 16
+\i (00:41:43) roam y -16
+\i (00:41:43) roam y -32
+\i (00:41:43) roam x 16
+\i (00:41:43) roam y -16
+\i (00:41:43) roam y -16
+\i (00:41:43) roam y -16
+\i (00:41:43) roam x 16
+\i (00:41:43) roam y -16
+\i (00:41:43) roam y -16
+\i (00:41:43) roam y -16
+\i (00:41:43) roam y -16
+\i (00:41:43) roam y 16
+\i (00:41:43) roam x -16
+\i (00:41:43) roam y 16
+\i (00:41:43) roam x -16
+\i (00:41:43) roam y 16
+\i (00:41:43) roam x -16
+\i (00:41:43) roam y 16
+\i (00:41:43) roam x -16
+\i (00:41:43) roam x -16
+\i (00:41:43) roam y 16
+\i (00:41:43) roam x -16
+\i (00:41:43) roam y 16
+\i (00:41:43) roam x -16
+\i (00:41:43) roam y 16
+\i (00:41:43) roam x -16
+\i (00:41:43) roam y 16
+\i (00:41:43) roam y 16
+\i (00:41:43) roam x -16
+\i (00:41:43) roam y 16
+\i (00:41:43) roam y 16
+\i (00:41:43) roam x -16
+\i (00:41:43) roam y 16
+\i (00:41:43) roam y 16
+\i (00:41:43) roam y 16
+\i (00:41:43) roam x -16
+\i (00:41:43) roam y 16
+\i (00:41:43) roam y 16
+\i (00:41:43) roam x 16
+\i (00:41:43) roam x 16
+\i (00:41:43) roam x 16
+\i (00:41:43) roam x 16
+\i (00:41:43) roam x 16
+\i (00:41:43) roam x 16
+\i (00:41:43) roam x 16
+\i (00:41:44) roam x 16
+\i (00:41:44) roam end
+\i (00:41:44) roam start
+\i (00:41:44) roam end
+\i (00:41:45) roam start
+\i (00:41:45) roam x -16
+\i (00:41:45) roam y -16
+\i (00:41:45) roam y -16
+\i (00:41:45) roam x -16
+\i (00:41:45) roam y -32
+\i (00:41:45) roam end
+\i (00:41:46) zoom out 1 
+\i (00:41:46) setwindow pcb
+\i (00:41:46) zoom out 2827.330 1494.412
+\i (00:41:46) trapsize 13329
+\i (00:41:46) zoom out 1 
+\i (00:41:46) setwindow pcb
+\i (00:41:46) zoom out 2790.010 1473.085
+\i (00:41:46) trapsize 26658
+\i (00:41:46) zoom out 1 
+\i (00:41:46) setwindow pcb
+\i (00:41:46) zoom out 2715.366 1441.095
+\i (00:41:46) trapsize 53317
+\i (00:41:47) zoom in 1 
+\i (00:41:47) setwindow pcb
+\i (00:41:47) zoom in 2608.733 1430.432
+\i (00:41:47) trapsize 26658
+\i (00:41:47) zoom in 1 
+\i (00:41:47) setwindow pcb
+\i (00:41:47) zoom in 2603.402 1430.432
+\i (00:41:47) trapsize 13329
+\i (00:41:47) zoom out 1 
+\i (00:41:47) setwindow pcb
+\i (00:41:47) zoom out 1755.668 929.256
+\i (00:41:47) trapsize 26658
+\i (00:41:48) roam start
+\i (00:41:48) roam x 48
+\i (00:41:48) roam y -32
+\i (00:41:48) roam x 112
+\i (00:41:48) roam y -80
+\i (00:41:48) roam x 96
+\i (00:41:48) roam y -64
+\i (00:41:48) roam x 16
+\i (00:41:48) roam y 16
+\i (00:41:48) roam x -16
+\i (00:41:48) roam y 16
+\i (00:41:48) roam x -32
+\i (00:41:48) roam y 16
+\i (00:41:48) roam x -16
+\i (00:41:48) roam y 16
+\i (00:41:48) roam x -16
+\i (00:41:48) roam y 32
+\i (00:41:48) roam x -16
+\i (00:41:48) roam x -16
+\i (00:41:48) roam y 32
+\i (00:41:48) roam x -16
+\i (00:41:48) roam y 32
+\i (00:41:48) roam x -48
+\i (00:41:48) roam y 64
+\i (00:41:48) zoom in 1 
+\i (00:41:48) setwindow pcb
+\i (00:41:48) zoom in 2198.200 562.708
+\i (00:41:48) trapsize 13329
+\i (00:41:48) roam x -16
+\i (00:41:48) roam y 32
+\i (00:41:49) roam x -16
+\i (00:41:49) roam y 16
+\i (00:41:49) roam x 16
+\i (00:41:49) roam x 16
+\i (00:41:49) roam end
+\i (00:41:50) zoom in 1 
+\i (00:41:50) setwindow pcb
+\i (00:41:50) zoom in 2291.504 520.054
+\i (00:41:50) trapsize 6665
+\i (00:41:50) zoom in 1 
+\i (00:41:50) setwindow pcb
+\i (00:41:50) zoom in 2300.834 525.386
+\i (00:41:50) trapsize 3332
+\i (00:41:50) zoom out 1 
+\i (00:41:50) setwindow pcb
+\i (00:41:50) zoom out 2320.828 536.050
+\i (00:41:50) trapsize 6665
+\i (00:41:51) roam start
+\i (00:41:51) roam y 16
+\i (00:41:51) roam y 16
+\i (00:41:51) roam y -16
+\i (00:41:51) roam x 16
+\i (00:41:51) roam y -16
+\i (00:41:51) roam x 32
+\i (00:41:51) roam y -32
+\i (00:41:51) roam x 32
+\i (00:41:51) roam y -48
+\i (00:41:51) roam x 32
+\i (00:41:51) roam y -32
+\i (00:41:51) roam x 32
+\i (00:41:51) roam y -32
+\i (00:41:51) roam x 32
+\i (00:41:51) roam y -32
+\i (00:41:51) roam x 16
+\i (00:41:51) roam y -32
+\i (00:41:51) roam x 16
+\i (00:41:51) roam y -32
+\i (00:41:51) roam x 16
+\i (00:41:51) roam y -16
+\i (00:41:51) roam x 48
+\i (00:41:51) roam y -48
+\i (00:41:51) roam x 16
+\i (00:41:51) roam y -32
+\i (00:41:51) roam x 32
+\i (00:41:51) roam y -16
+\i (00:41:51) roam x 32
+\i (00:41:51) roam y -16
+\i (00:41:51) roam x 16
+\i (00:41:51) roam y -16
+\i (00:41:51) roam x 32
+\i (00:41:51) roam y -16
+\i (00:41:51) roam x 16
+\i (00:41:51) roam y -16
+\i (00:41:51) roam x 16
+\i (00:41:51) roam y -16
+\i (00:41:51) roam x 32
+\i (00:41:51) roam y -16
+\i (00:41:51) roam x 16
+\i (00:41:51) roam y -16
+\i (00:41:51) roam x 16
+\i (00:41:51) roam x 32
+\i (00:41:51) roam y -16
+\i (00:41:52) roam y -16
+\i (00:41:52) roam x -16
+\i (00:41:52) roam x -16
+\i (00:41:52) roam y -16
+\i (00:41:52) roam x -32
+\i (00:41:52) roam y -16
+\i (00:41:52) roam x -32
+\i (00:41:52) roam y -16
+\i (00:41:52) roam x -16
+\i (00:41:52) roam y -16
+\i (00:41:52) roam x -32
+\i (00:41:52) roam x -16
+\i (00:41:52) roam y -16
+\i (00:41:52) roam x -32
+\i (00:41:52) roam y -16
+\i (00:41:52) roam x -16
+\i (00:41:52) roam y -16
+\i (00:41:52) roam x -16
+\i (00:41:52) roam x -16
+\i (00:41:52) roam y -16
+\i (00:41:52) roam x -16
+\i (00:41:52) roam x -16
+\i (00:41:52) roam y -16
+\i (00:41:52) roam x -16
+\i (00:41:52) roam x -16
+\i (00:41:52) roam y -16
+\i (00:41:52) roam x -16
+\i (00:41:52) roam x -16
+\i (00:41:52) roam y -16
+\i (00:41:52) roam y -16
+\i (00:41:52) roam x -16
+\i (00:41:52) roam y -16
+\i (00:41:52) roam end
+\i (00:41:54) setwindow form.mini
+\i (00:41:54) FORM mini subcolor 0 
+\i (00:41:55) FORM mini subcolor 1 
+\i (00:41:55) FORM mini subcolor 0 
+\i (00:41:56) FORM mini subcolor 1 
+\i (00:42:10) setwindow form.find
+\i (00:42:10) FORM find all_off  
+\i (00:42:11) FORM find all_on  
+\i (00:42:13) setwindow pcb
+\i (00:42:13) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:42:18) drag_start grid 2319.490 1329.131
+\i (00:42:18) drag_stop 2567.412 1407.773
+\i (00:42:19) drag_start grid 2463.445 1359.788
+\i (00:42:19) drag_stop 2859.320 1455.757
+\i (00:42:20) pick grid 2802.005 1443.761
+\t (00:42:20) last pick:  2800.000 1445.000
+\i (00:42:21) drag_start grid 3001.942 1411.771
+\i (00:42:21) drag_stop 2876.648 1394.443
+\i (00:42:22) drag_start grid 2767.349 1550.394
+\i (00:42:22) drag_stop 2764.683 1453.092
+\i (00:42:23) drag_start grid 2540.754 1507.741
+\i (00:42:23) drag_stop 2676.711 1479.750
+\i (00:42:23) drag_start grid 2558.082 1534.399
+\i (00:42:24) drag_stop 2642.055 1485.082
+\i (00:42:26) move 
+\t (00:42:26) Pick user-pick origin.
+\i (00:42:28) pick grid 2616.730 1542.397
+\t (00:42:28) last pick:  2615.000 1540.000
+\t (00:42:28) Pick new location for the element(s).
+\i (00:42:28) pick grid 2595.403 1527.735
+\t (00:42:28) last pick:  2595.000 1530.000
+\i (00:42:29) generaledit 
+\i (00:42:29) drag_start grid 2580.741 1534.399
+\i (00:42:29) move 
+\t (00:42:29) last pick:  2580.000 1535.000
+\t (00:42:29) Pick new location for the element(s).
+\i (00:42:29) drag_stop grid 2602.068 1481.083
+\i (00:42:29) generaledit 
+\i (00:42:29) drag_start grid 2542.087 1510.407
+\i (00:42:29) move 
+\t (00:42:30) last pick:  2540.000 1510.000
+\t (00:42:30) Pick new location for the element(s).
+\i (00:42:30) drag_stop grid 2620.729 1486.415
+\i (00:42:30) generaledit 
+\i (00:42:31) zoom in 1 
+\i (00:42:31) setwindow pcb
+\i (00:42:31) zoom in 2680.710 1425.100
+\i (00:42:31) trapsize 3332
+\i (00:42:31) zoom in 1 
+\i (00:42:31) setwindow pcb
+\i (00:42:31) zoom in 2680.710 1425.101
+\i (00:42:31) trapsize 1666
+\i (00:42:32) drag_start grid 2670.714 1458.091
+\i (00:42:32) move 
+\t (00:42:32) last pick:  2670.000 1460.000
+\t (00:42:32) Pick new location for the element(s).
+\i (00:42:32) drag_stop grid 2716.366 1472.420
+\i (00:42:32) generaledit 
+\i (00:42:32) zoom in 1 
+\i (00:42:32) setwindow pcb
+\i (00:42:32) zoom in 2643.389 1466.755
+\i (00:42:32) trapsize 833
+\i (00:42:32) zoom in 1 
+\i (00:42:32) setwindow pcb
+\i (00:42:32) zoom in 2641.390 1465.922
+\i (00:42:32) trapsize 417
+\i (00:42:32) zoom in 1 
+\i (00:42:32) setwindow pcb
+\i (00:42:32) zoom in 2641.306 1465.923
+\i (00:42:32) trapsize 208
+\i (00:42:33) zoom out 1 
+\i (00:42:33) setwindow pcb
+\i (00:42:33) zoom out 2638.682 1466.173
+\i (00:42:33) trapsize 417
+\i (00:42:33) zoom out 1 
+\i (00:42:33) setwindow pcb
+\i (00:42:33) zoom out 2638.431 1466.256
+\i (00:42:33) trapsize 833
+\i (00:42:33) zoom out 1 
+\i (00:42:33) setwindow pcb
+\i (00:42:33) zoom out 2636.932 1465.589
+\i (00:42:33) trapsize 1666
+\i (00:42:33) roam start
+\i (00:42:33) roam x 16
+\i (00:42:33) roam x 16
+\i (00:42:33) roam y 32
+\i (00:42:33) roam x 32
+\i (00:42:33) roam y 16
+\i (00:42:33) roam x 16
+\i (00:42:33) roam y 16
+\i (00:42:33) roam y 16
+\i (00:42:33) roam x 16
+\i (00:42:33) roam y 16
+\i (00:42:34) zoom in 1 
+\i (00:42:34) setwindow pcb
+\i (00:42:34) zoom in 2630.812 1439.153
+\i (00:42:34) trapsize 833
+\i (00:42:34) roam y -16
+\i (00:42:34) roam y -16
+\i (00:42:34) roam x -16
+\i (00:42:34) roam y -32
+\i (00:42:34) roam y -32
+\i (00:42:34) zoom out 1 
+\i (00:42:34) setwindow pcb
+\i (00:42:34) zoom out 2627.147 1456.480
+\i (00:42:34) trapsize 1666
+\i (00:42:34) roam x -16
+\i (00:42:34) roam y -16
+\i (00:42:34) roam y -16
+\i (00:42:34) roam y -16
+\i (00:42:34) roam x -16
+\i (00:42:34) roam y -16
+\i (00:42:35) roam y -16
+\i (00:42:35) roam x -16
+\i (00:42:35) roam end
+\i (00:42:36) drag_start grid 2631.146 1527.792
+\i (00:42:36) move 
+\t (00:42:36) last pick:  2630.000 1530.000
+\t (00:42:36) Pick new location for the element(s).
+\i (00:42:36) drag_stop grid 2652.473 1460.812
+\i (00:42:36) generaledit 
+\i (00:42:37) zoom out 1 
+\i (00:42:37) setwindow pcb
+\i (00:42:37) zoom out 2608.819 1451.149
+\i (00:42:37) trapsize 3332
+\i (00:42:37) zoom out 1 
+\i (00:42:37) setwindow pcb
+\i (00:42:37) zoom out 2608.154 1451.148
+\i (00:42:37) trapsize 6665
+\i (00:42:37) zoom in 1 
+\i (00:42:37) setwindow pcb
+\i (00:42:37) zoom in 2558.835 1468.477
+\i (00:42:37) trapsize 3332
+\i (00:42:39) drag_start grid 2575.497 1465.812
+\i (00:42:39) move 
+\t (00:42:39) last pick:  2575.000 1465.000
+\t (00:42:39) Pick new location for the element(s).
+\i (00:42:39) drag_stop grid 2591.492 1417.826
+\i (00:42:39) generaledit 
+\i (00:42:43) optimize_silkscreen 
+\i (00:42:43) generaledit 
+\i (00:42:44) setwindow form.silkscreenForm
+\i (00:42:44) FORM silkscreenForm silktop YES 
+\i (00:42:46) FORM silkscreenForm done  
+\t (00:42:46) Silkscreen optimization started.
+\t (00:42:46) REF DES/SILKSCREEN_TOP optimization completed.
+\i (00:42:47) setwindow pcb
+\i (00:42:47) zoom out 1 
+\i (00:42:47) setwindow pcb
+\i (00:42:47) zoom out 2603.489 1409.162
+\i (00:42:47) trapsize 6665
+\i (00:42:47) zoom out 1 
+\i (00:42:47) setwindow pcb
+\i (00:42:47) zoom out 2592.825 1410.496
+\i (00:42:47) trapsize 13329
+\i (00:42:48) roam start
+\i (00:42:48) roam x 16
+\i (00:42:48) roam x 32
+\i (00:42:48) roam y -16
+\i (00:42:48) roam x 16
+\i (00:42:48) zoom in 1 
+\i (00:42:48) setwindow pcb
+\i (00:42:48) zoom in 2624.835 1530.473
+\i (00:42:48) trapsize 6665
+\i (00:42:49) roam x 16
+\i (00:42:49) roam x -16
+\i (00:42:49) roam x -16
+\i (00:42:49) roam end
+\i (00:42:50) zoom in 1 
+\i (00:42:50) setwindow pcb
+\i (00:42:50) zoom in 2748.797 1459.828
+\i (00:42:50) trapsize 3332
+\i (00:42:50) zoom out 1 
+\i (00:42:50) setwindow pcb
+\i (00:42:50) zoom out 2629.501 1429.837
+\i (00:42:50) trapsize 6665
+\i (00:42:51) roam start
+\i (00:42:51) roam x -32
+\i (00:42:51) roam x -16
+\i (00:42:51) roam x -16
+\i (00:42:51) roam x -16
+\i (00:42:51) roam x -16
+\i (00:42:51) roam y 16
+\i (00:42:51) roam x -16
+\i (00:42:51) roam y 16
+\i (00:42:51) roam x -16
+\i (00:42:51) roam y 16
+\i (00:42:51) roam x -16
+\i (00:42:51) roam y 32
+\i (00:42:51) roam y 16
+\i (00:42:51) roam x -16
+\i (00:42:51) roam end
+\i (00:42:54) QtSignal CVPLayerGrid CVPAll_LayersVia clicked true
+\i (00:42:54) QtSignal CVPLayerGrid CVPAll_LayersVia clicked false
+\i (00:42:55) QtSignal CVPLayerGrid CVPAll_LayersPin clicked true
+\i (00:42:56) QtSignal CVPLayerGrid CVPAll_LayersPin clicked false
+\i (00:42:57) QtSignal CVPLayerGrid CVPAll_LayersDrc clicked true
+\i (00:42:57) QtSignal CVPLayerGrid CVPAll_LayersDrc clicked false
+\i (00:42:59) QtSignal CVPLayerGrid CVPAll_LayersVia clicked true
+\i (00:43:02) QtSignal CVPLayerGrid CVPAll_LayersVia clicked false
+\i (00:43:02) QtSignal ColorVisibilityPane CVPLayerGrid keyPressEvent 16777250 0 false 1
+\i (00:43:17) drag_start grid 2454.222 1371.855
+\i (00:43:17) drag_stop 2460.886 1294.545
+\i (00:43:18) drag_start grid 2427.563 1377.187
+\i (00:43:18) drag_stop 2458.221 1322.537
+\i (00:43:19) drag_start grid 2498.208 1363.857
+\i (00:43:20) drag_stop 2499.541 1258.556
+\i (00:43:20) zoom in 1 
+\i (00:43:20) setwindow pcb
+\i (00:43:20) zoom in 2475.549 1347.862
+\i (00:43:20) trapsize 3332
+\i (00:43:20) zoom in 1 
+\i (00:43:20) setwindow pcb
+\i (00:43:20) zoom in 2474.216 1345.197
+\i (00:43:20) trapsize 1666
+\i (00:43:20) zoom in 1 
+\i (00:43:20) setwindow pcb
+\i (00:43:20) zoom in 2471.884 1344.530
+\i (00:43:20) trapsize 833
+\i (00:43:21) move 
+\i (00:43:22) zoom out 1 
+\i (00:43:22) setwindow pcb
+\i (00:43:22) zoom out 2500.542 1343.864
+\i (00:43:22) trapsize 1666
+\i (00:43:22) zoom out 1 
+\i (00:43:22) setwindow pcb
+\i (00:43:22) zoom out 2499.542 1343.197
+\i (00:43:22) trapsize 3332
+\i (00:43:23) zoom out 1 
+\i (00:43:23) setwindow pcb
+\i (00:43:23) zoom out 2497.543 1342.531
+\i (00:43:23) trapsize 6665
+\i (00:43:23) zoom out 1 
+\i (00:43:23) setwindow pcb
+\i (00:43:23) zoom out 2494.876 1341.197
+\i (00:43:23) trapsize 13329
+\i (00:43:23) zoom in 1 
+\i (00:43:23) setwindow pcb
+\i (00:43:23) zoom in 2494.877 1341.198
+\i (00:43:23) trapsize 6665
+\i (00:43:23) pick grid 2462.887 1545.135
+\t (00:43:23) last pick:  2465.000 1545.000
+\t (00:43:23) Pick new location for the element(s).
+\i (00:43:24) pick grid 2438.895 1639.773
+\t (00:43:24) last pick:  2440.000 1640.000
+\i (00:43:24) generaledit 
+\i (00:43:24) pick grid 2520.203 1357.193
+\t (00:43:24) last pick:  2520.000 1355.000
+\i (00:43:25) drag_start grid 2588.182 1313.207
+\i (00:43:26) drag_stop 2724.140 1294.546
+\i (00:43:26) pick grid 2522.869 1350.529
+\t (00:43:26) last pick:  2525.000 1350.000
+\i (00:43:27) drag_start grid 2528.200 1355.860
+\i (00:43:27) move 
+\t (00:43:27) last pick:  2530.000 1355.000
+\t (00:43:27) Pick new location for the element(s).
+\i (00:43:27) drag_stop grid 2614.840 1287.881
+\i (00:43:27) generaledit 
+\i (00:43:27) pick grid 2658.827 1398.514
+\t (00:43:27) last pick:  2660.000 1400.000
+\i (00:43:29) undo 
+\i (00:43:29) trapsize 6665
+\i (00:43:29) generaledit 
+\i (00:43:29) undo 
+\i (00:43:29) trapsize 833
+\i (00:43:29) undo 
+\i (00:43:29) undo 
+\i (00:43:29) generaledit 
+\i (00:43:30) undo 
+\i (00:43:30) undo 
+\i (00:43:30) undo 
+\i (00:43:30) generaledit 
+\i (00:43:30) undo 
+\i (00:43:30) undo 
+\i (00:43:30) generaledit 
+\i (00:43:31) zoom out 1 
+\i (00:43:31) setwindow pcb
+\i (00:43:31) zoom out 2548.860 1373.854
+\i (00:43:31) trapsize 1666
+\i (00:43:31) zoom out 1 
+\i (00:43:31) setwindow pcb
+\i (00:43:31) zoom out 2548.860 1373.855
+\i (00:43:31) trapsize 3332
+\i (00:43:31) zoom out 1 
+\i (00:43:31) setwindow pcb
+\i (00:43:31) zoom out 2548.861 1373.855
+\i (00:43:31) trapsize 6665
+\i (00:43:31) zoom out 1 
+\i (00:43:31) setwindow pcb
+\i (00:43:31) zoom out 2548.861 1373.855
+\i (00:43:31) trapsize 13329
+\i (00:43:31) zoom out 1 
+\i (00:43:31) setwindow pcb
+\i (00:43:31) zoom out 2548.861 1373.855
+\i (00:43:31) trapsize 26658
+\i (00:43:31) undo 
+\i (00:43:31) undo 
+\i (00:43:31) undo 
+\i (00:43:31) generaledit 
+\i (00:43:32) undo 
+\i (00:43:32) undo 
+\i (00:43:32) undo 
+\i (00:43:32) generaledit 
+\i (00:43:32) undo 
+\i (00:43:32) undo 
+\i (00:43:32) generaledit 
+\i (00:43:35) exit 
+\e (00:43:35) Do you want to save the changes you made to IEMI_20230730.brd?
+\i (00:43:36) fillin no 
+\t (00:43:36)     Journal end - Tue Apr 29 17:16:37 2025

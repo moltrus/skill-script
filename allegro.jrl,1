@@ -1,0 +1,751 @@
+\t (00:00:10) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:10)     Journal start - Tue Apr 29 15:55:16 2025
+\t (00:00:10)         Host=YODA User=jkholick Pid=9156 CPUs=8
+\t (00:00:10) CmdLine= d:\alegro\tools\bin\allegro.exe C:\Users\jkholick\Desktop\skill-script\IEMI_20230730.brd
+\t (00:00:10) 
+   (00:00:11) Loading axlcore.cxt 
+\t (00:00:12) Opening existing design...
+\i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged IEMI_20230730
+\d (00:00:12) Design opened: C:/Users/jkholick/Desktop/skill-script/IEMI_20230730.brd
+\i (00:00:13) trapsize 70621
+\i (00:00:13) trapsize 73754
+\i (00:00:13) trapsize 70621
+\i (00:00:13) trapsize 390625
+\i (00:00:14) trapsize 246837
+\i (00:00:15) generaledit 
+\i (00:00:36) roam x -96 
+\i (00:00:56) skill 'loadi "fixed_script.il"' 
+   (00:00:56) 
+   (00:00:56)     (if (!= txt_jus "CENTER") (setq changeit 1))
+   (00:00:56)          ^^
+   (00:00:56) SYNTAX ERROR found at line 16 column 10 of file fixed_script.il
+   (00:00:56) *Error* lineread/read: syntax error encountered in input
+   (00:00:56) *Error* eval: undefined function - copperInWay
+   (00:00:56) *Error* eval: undefined function - specsNearComponent
+   (00:00:56) 
+   (00:00:56)     (if (= changeit 1)
+   (00:00:56)          ^
+   (00:00:56) SYNTAX ERROR found at line 50 column 10 of file fixed_script.il
+   (00:00:56) *Error* lineread/read: syntax error encountered in input
+   (00:00:56) *Error* eval: undefined function - createTextBlock_RD
+   (00:00:56) 
+   (00:00:56)     )
+   (00:00:56) ^^^^^
+   (00:00:56) PARSER WARNING at line 52 column 1 of file fixed_script.il
+   (00:00:56) *WARNING* (Parser): extra ')' ignored
+   (00:00:56) 
+   (00:00:56)   )
+   (00:00:56) ^^^
+   (00:00:56) PARSER WARNING at line 53 column 1 of file fixed_script.il
+   (00:00:56) *WARNING* (Parser): extra ')' ignored
+   (00:00:56) 
+   (00:00:56) ); end defun - rotateSilkAssy
+   (00:00:56) ^
+   (00:00:56) PARSER WARNING at line 54 column 1 of file fixed_script.il
+   (00:00:56) *WARNING* (Parser): extra ')' ignored
+   (00:00:56) 
+   (00:00:56)   (setq new_x (+ x 20))
+   (00:00:56)                ^
+   (00:00:56) SYNTAX ERROR found at line 101 column 16 of file fixed_script.il
+   (00:00:56) *Error* lineread/read: syntax error encountered in input
+   (00:00:56) *Error* eval: unbound variable - y
+   (00:00:56) *Error* eval: undefined function - updateTextPosition
+   (00:00:56) 
+   (00:00:56) )
+   (00:00:56) ^
+   (00:00:56) PARSER WARNING at line 104 column 1 of file fixed_script.il
+   (00:00:56) *WARNING* (Parser): extra ')' ignored
+   (00:00:56) 
+   (00:00:56)   (setq new_x (+ x 100))
+   (00:00:56)                ^
+   (00:00:56) SYNTAX ERROR found at line 117 column 16 of file fixed_script.il
+   (00:00:56) *Error* lineread/read: syntax error encountered in input
+   (00:00:56) *Error* eval: unbound variable - y
+   (00:00:56) *Error* eval: undefined function - updateTextPosition
+   (00:00:56) 
+   (00:00:56) )
+   (00:00:56) ^
+   (00:00:56) PARSER WARNING at line 120 column 1 of file fixed_script.il
+   (00:00:56) *WARNING* (Parser): extra ')' ignored
+   (00:00:56) 
+   (00:00:56)   (if (!= update nil)
+   (00:00:56)        ^^
+   (00:00:56) SYNTAX ERROR found at line 146 column 8 of file fixed_script.il
+   (00:00:56) *Error* lineread/read: syntax error encountered in input
+   (00:00:56) *Error* eval: unbound variable - text_id
+   (00:00:56) *Error* eval: unbound variable - text
+   (00:00:56) 
+   (00:00:56)   )
+   (00:00:56) ^^^
+   (00:00:56) PARSER WARNING at line 149 column 1 of file fixed_script.il
+   (00:00:56) *WARNING* (Parser): extra ')' ignored
+   (00:00:56) 
+   (00:00:56) )
+   (00:00:56) ^
+   (00:00:56) PARSER WARNING at line 150 column 1 of file fixed_script.il
+   (00:00:56) *WARNING* (Parser): extra ')' ignored
+   (00:00:56) t
+\i (00:08:01) skill 'loadi "fixed_script_V2.il"' 
+   (00:08:01) *WARNING* (def): redefining function xCoord from a macro to be a lambda
+   (00:08:01) *WARNING* (def): redefining function yCoord from a macro to be a lambda
+   (00:08:01) function copperInWay redefined
+   (00:08:01) function specsNearComponent redefined
+   (00:08:01) function emptySpaceAvailable redefined
+   (00:08:01) function noSpaceAvailableOnBoard redefined
+   (00:08:01) 
+   (00:08:01)   (setq new_x (+ x 20))
+   (00:08:01)                ^
+   (00:08:01) SYNTAX ERROR found at line 105 column 16 of file fixed_script_V2.il
+   (00:08:01) *Error* lineread/read: syntax error encountered in input
+   (00:08:01) *Error* eval: unbound variable - y
+   (00:08:01) *Error* eval: undefined function - createTextBlock_RD
+   (00:08:01) 
+   (00:08:01) )
+   (00:08:01) ^
+   (00:08:01) PARSER WARNING at line 108 column 1 of file fixed_script_V2.il
+   (00:08:01) *WARNING* (Parser): extra ')' ignored
+   (00:08:01) function placeInEmptySpace redefined
+   (00:08:01) 
+   (00:08:01)   (setq new_x (+ x 100))
+   (00:08:01)                ^
+   (00:08:01) SYNTAX ERROR found at line 121 column 16 of file fixed_script_V2.il
+   (00:08:01) *Error* lineread/read: syntax error encountered in input
+   (00:08:01) *Error* eval: unbound variable - y
+   (00:08:01) *Error* eval: undefined function - createTextBlock_RD
+   (00:08:01) 
+   (00:08:01) )
+   (00:08:01) ^
+   (00:08:01) PARSER WARNING at line 124 column 1 of file fixed_script_V2.il
+   (00:08:01) *WARNING* (Parser): extra ')' ignored
+   (00:08:01) 
+   (00:08:01)     (when (= changeit 1)
+   (00:08:01)            ^
+   (00:08:01) SYNTAX ERROR found at line 174 column 12 of file fixed_script_V2.il
+   (00:08:01) *Error* lineread/read: syntax error encountered in input
+   (00:08:01) *Error* eval: undefined function - createTextBlock_RD
+   (00:08:01) 
+   (00:08:01)     )
+   (00:08:01) ^^^^^
+   (00:08:01) PARSER WARNING at line 176 column 1 of file fixed_script_V2.il
+   (00:08:01) *WARNING* (Parser): extra ')' ignored
+   (00:08:01) 
+   (00:08:01)   )
+   (00:08:01) ^^^
+   (00:08:01) PARSER WARNING at line 177 column 1 of file fixed_script_V2.il
+   (00:08:01) *WARNING* (Parser): extra ')' ignored
+   (00:08:01) 
+   (00:08:01) )
+   (00:08:01) ^
+   (00:08:01) PARSER WARNING at line 179 column 1 of file fixed_script_V2.il
+   (00:08:01) *WARNING* (Parser): extra ')' ignored
+   (00:08:01) t
+\e (00:08:14) Command not found: clear
+\i (00:08:14) roam y -96 
+\i (00:08:14) roam y -96
+\i (00:08:21) zoom out 1 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom out -6732.103 10450.427
+\i (00:08:21) trapsize 493673
+\i (00:08:21) zoom out 1 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom out 2894.529 10450.427
+\i (00:08:21) trapsize 664452
+\i (00:08:21) zoom out 1 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom out 9520.731 6034.967
+\i (00:08:21) trapsize 664452
+\i (00:08:21) zoom out 1 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom out 9520.731 6034.967
+\i (00:08:21) trapsize 664452
+\i (00:08:22) zoom in 1 
+\i (00:08:22) setwindow pcb
+\i (00:08:22) zoom in -3635.415 1649.585
+\i (00:08:22) trapsize 332226
+\i (00:08:22) zoom in 1 
+\i (00:08:22) setwindow pcb
+\i (00:08:22) zoom in -9947.708 1649.585
+\i (00:08:22) trapsize 166113
+\i (00:08:22) zoom in 1 
+\i (00:08:22) setwindow pcb
+\i (00:08:22) zoom in 3141.993 1616.363
+\i (00:08:22) trapsize 83056
+\i (00:08:23) zoom out 1 
+\i (00:08:24) setwindow pcb
+\i (00:08:24) zoom out 4072.226 1699.419
+\i (00:08:24) trapsize 166113
+\i (00:08:24) zoom in 1 
+\i (00:08:24) setwindow pcb
+\i (00:08:24) zoom in 3573.888 470.184
+\i (00:08:24) trapsize 83056
+\i (00:08:28) trapsize 11565
+\i (00:08:29) zoom in 1 
+\i (00:08:29) setwindow pcb
+\i (00:08:29) zoom in 2988.848 1851.695
+\i (00:08:29) trapsize 5783
+\i (00:08:39) skill 'loadi "fixed_script_V2.il"' 
+   (00:08:39) function xCoord redefined
+   (00:08:39) function yCoord redefined
+   (00:08:39) function copperInWay redefined
+   (00:08:39) function isComponentWithSpecNearby redefined
+   (00:08:39) function specsNearComponent redefined
+   (00:08:39) function isEmptySpace redefined
+   (00:08:39) function emptySpaceAvailable redefined
+   (00:08:39) function isBoardFull redefined
+   (00:08:39) function noSpaceAvailableOnBoard redefined
+   (00:08:39) 
+   (00:08:39)   (setq new_x (+ x 20))
+   (00:08:39)                ^
+   (00:08:39) SYNTAX ERROR found at line 105 column 16 of file fixed_script_V2.il
+   (00:08:39) *Error* lineread/read: syntax error encountered in input
+   (00:08:39) *Error* eval: unbound variable - y
+   (00:08:39) *Error* eval: undefined function - createTextBlock_RD
+   (00:08:39) 
+   (00:08:39) )
+   (00:08:39) ^
+   (00:08:39) PARSER WARNING at line 108 column 1 of file fixed_script_V2.il
+   (00:08:39) *WARNING* (Parser): extra ')' ignored
+   (00:08:39) function placeInEmptySpace redefined
+   (00:08:39) 
+   (00:08:39)   (setq new_x (+ x 100))
+   (00:08:39)                ^
+   (00:08:39) SYNTAX ERROR found at line 121 column 16 of file fixed_script_V2.il
+   (00:08:39) *Error* lineread/read: syntax error encountered in input
+   (00:08:39) *Error* eval: unbound variable - y
+   (00:08:39) *Error* eval: undefined function - createTextBlock_RD
+   (00:08:39) 
+   (00:08:39) )
+   (00:08:39) ^
+   (00:08:39) PARSER WARNING at line 124 column 1 of file fixed_script_V2.il
+   (00:08:39) *WARNING* (Parser): extra ')' ignored
+   (00:08:39) 
+   (00:08:39)     (when (= changeit 1)
+   (00:08:39)            ^
+   (00:08:39) SYNTAX ERROR found at line 174 column 12 of file fixed_script_V2.il
+   (00:08:39) *Error* lineread/read: syntax error encountered in input
+   (00:08:39) *Error* eval: undefined function - createTextBlock_RD
+   (00:08:39) 
+   (00:08:39)     )
+   (00:08:39) ^^^^^
+   (00:08:39) PARSER WARNING at line 176 column 1 of file fixed_script_V2.il
+   (00:08:39) *WARNING* (Parser): extra ')' ignored
+   (00:08:39) 
+   (00:08:39)   )
+   (00:08:39) ^^^
+   (00:08:39) PARSER WARNING at line 177 column 1 of file fixed_script_V2.il
+   (00:08:39) *WARNING* (Parser): extra ')' ignored
+   (00:08:39) 
+   (00:08:39) )
+   (00:08:39) ^
+   (00:08:39) PARSER WARNING at line 179 column 1 of file fixed_script_V2.il
+   (00:08:39) *WARNING* (Parser): extra ')' ignored
+   (00:08:39) t
+\i (00:12:23) skill 'loadi "fixed_script_V3.il"' 
+   (00:12:23) function xCoord redefined
+   (00:12:23) function yCoord redefined
+   (00:12:23) function updateTextPosition redefined
+   (00:12:23) 
+   (00:12:23)   (updateTextPosition (+ x 20) y)
+   (00:12:23)                        ^
+   (00:12:23) SYNTAX ERROR found at line 71 column 24 of file fixed_script_V3.il
+   (00:12:23) *Error* lineread/read: syntax error encountered in input
+   (00:12:23) 
+   (00:12:23) )
+   (00:12:23) ^
+   (00:12:23) PARSER WARNING at line 72 column 1 of file fixed_script_V3.il
+   (00:12:23) *WARNING* (Parser): extra ')' ignored
+   (00:12:23) function placeInEmptySpace redefined
+   (00:12:23) 
+   (00:12:23)   (updateTextPosition (+ x 100) y)
+   (00:12:23)                        ^
+   (00:12:23) SYNTAX ERROR found at line 83 column 24 of file fixed_script_V3.il
+   (00:12:23) *Error* lineread/read: syntax error encountered in input
+   (00:12:23) 
+   (00:12:23) )
+   (00:12:23) ^
+   (00:12:23) PARSER WARNING at line 84 column 1 of file fixed_script_V3.il
+   (00:12:23) *WARNING* (Parser): extra ')' ignored
+   (00:12:23) function copperInWay redefined
+   (00:12:23) function isComponentWithSpecNearby redefined
+   (00:12:23) function specsNearComponent redefined
+   (00:12:23) function isEmptySpace redefined
+   (00:12:23) function emptySpaceAvailable redefined
+   (00:12:23) function isBoardFull redefined
+   (00:12:23) function noSpaceAvailableOnBoard redefined
+   (00:12:23) 
+   (00:12:23)     (when (= changeit 1)
+   (00:12:23)            ^
+   (00:12:23) SYNTAX ERROR found at line 172 column 12 of file fixed_script_V3.il
+   (00:12:23) *Error* lineread/read: syntax error encountered in input
+   (00:12:23) *Error* axlDBCreateText: argument #1 should be a string (type template = "tlggg") - nil
+   (00:12:23) 
+   (00:12:23)     )
+   (00:12:23) ^^^^^
+   (00:12:23) PARSER WARNING at line 174 column 1 of file fixed_script_V3.il
+   (00:12:23) *WARNING* (Parser): extra ')' ignored
+   (00:12:23) 
+   (00:12:23)   )
+   (00:12:23) ^^^
+   (00:12:23) PARSER WARNING at line 175 column 1 of file fixed_script_V3.il
+   (00:12:23) *WARNING* (Parser): extra ')' ignored
+   (00:12:23) 
+   (00:12:23) )
+   (00:12:23) ^
+   (00:12:23) PARSER WARNING at line 177 column 1 of file fixed_script_V3.il
+   (00:12:23) *WARNING* (Parser): extra ')' ignored
+   (00:12:23) t
+\i (00:19:39) skill 'loadi "silkscreen_rules.il"' 
+   (00:19:39) 
+   (00:19:39)            (setq obj_radius (/ (axlGetSymbolWidth obj) 2.0))
+   (00:19:39)                              ^
+   (00:19:39) SYNTAX ERROR found at line 91 column 30 of file silkscreen_rules.il
+   (00:19:39) *Error* lineread/read: syntax error encountered in input
+   (00:19:39) 
+   (00:19:39)            (if (<= (distance_between_points point obj_point) obj_radius)
+   (00:19:39)                 ^^
+   (00:19:39) SYNTAX ERROR found at line 92 column 17 of file silkscreen_rules.il
+   (00:19:39) *Error* lineread/read: syntax error encountered in input
+   (00:19:39) 
+   (00:19:39)            )
+   (00:19:39) ^^^^^^^^^^^^
+   (00:19:39) PARSER WARNING at line 94 column 1 of file silkscreen_rules.il
+   (00:19:39) *WARNING* (Parser): extra ')' ignored
+   (00:19:39) 
+   (00:19:39)          )
+   (00:19:39) ^^^^^^^^^^
+   (00:19:39) PARSER WARNING at line 95 column 1 of file silkscreen_rules.il
+   (00:19:39) *WARNING* (Parser): extra ')' ignored
+   (00:19:39) 
+   (00:19:39)         )
+   (00:19:39) ^^^^^^^^^
+   (00:19:39) PARSER WARNING at line 96 column 1 of file silkscreen_rules.il
+   (00:19:39) *WARNING* (Parser): extra ')' ignored
+   (00:19:39) *Error* eval: undefined function - axlIsPointInsideShape
+   (00:19:39) 
+   (00:19:39)       )
+   (00:19:39) ^^^^^^^
+   (00:19:39) PARSER WARNING at line 102 column 1 of file silkscreen_rules.il
+   (00:19:39) *WARNING* (Parser): extra ')' ignored
+   (00:19:39) 
+   (00:19:39)     )
+   (00:19:39) ^^^^^
+   (00:19:39) PARSER WARNING at line 103 column 1 of file silkscreen_rules.il
+   (00:19:39) *WARNING* (Parser): extra ')' ignored
+   (00:19:39) 
+   (00:19:39)   )
+   (00:19:39) ^^^
+   (00:19:39) PARSER WARNING at line 105 column 1 of file silkscreen_rules.il
+   (00:19:39) *WARNING* (Parser): extra ')' ignored
+   (00:19:39) 
+   (00:19:39) )
+   (00:19:39) ^
+   (00:19:39) PARSER WARNING at line 106 column 1 of file silkscreen_rules.il
+   (00:19:39) *WARNING* (Parser): extra ')' ignored
+   (00:19:39) 
+   (00:19:39)     (sqrt (+ (expt (- x2 x1) 2) (expt (- y2 y1) 2)))
+   (00:19:39)            ^
+   (00:19:39) SYNTAX ERROR found at line 112 column 12 of file silkscreen_rules.il
+   (00:19:39) *Error* lineread/read: syntax error encountered in input
+   (00:19:39) 
+   (00:19:39)   )
+   (00:19:39) ^^^
+   (00:19:39) PARSER WARNING at line 113 column 1 of file silkscreen_rules.il
+   (00:19:39) *WARNING* (Parser): extra ')' ignored
+   (00:19:39) 
+   (00:19:39) )
+   (00:19:39) ^
+   (00:19:39) PARSER WARNING at line 114 column 1 of file silkscreen_rules.il
+   (00:19:39) *WARNING* (Parser): extra ')' ignored
+   (00:19:39) 
+   (00:19:39)                      (list (+ (car bbox) text_width) (/ (+ (cadr bbox) (cadddr bbox)) .2))      ; Right
+   (00:19:39)                             ^
+   (00:19:39) SYNTAX ERROR found at line 126 column 29 of file silkscreen_rules.il
+   (00:19:39) *Error* lineread/read: syntax error encountered in input
+   (00:19:39) 
+   (00:19:39)                      (list (- (caddr bbox) text_width) (/ (+ (cadr bbox) (cadddr bbox)) .2))     ; Left
+   (00:19:39)                                                         ^
+   (00:19:39) SYNTAX ERROR found at line 127 column 57 of file silkscreen_rules.il
+   (00:19:39) *Error* lineread/read: syntax error encountered in input
+   (00:19:39) 
+   (00:19:39)                      (list (/ (+ (car bbox) (caddr bbox)) .2) (+ (cadddr bbox) text_height))    ; Top
+   (00:19:39)                             ^
+   (00:19:39) SYNTAX ERROR found at line 128 column 29 of file silkscreen_rules.il
+   (00:19:39) *Error* lineread/read: syntax error encountered in input
+   (00:19:39) 
+   (00:19:39)                      (list (/ (+ (car bbox) (caddr bbox)) .2) (- (cadr bbox) text_height))      ; Bottom
+   (00:19:39)                             ^
+   (00:19:39) SYNTAX ERROR found at line 129 column 29 of file silkscreen_rules.il
+   (00:19:39) *Error* lineread/read: syntax error encountered in input
+   (00:19:39) 
+   (00:19:39)                     ))
+   (00:19:39) ^^^^^^^^^^^^^^^^^^^^^
+   (00:19:39) PARSER WARNING at line 130 column 1 of file silkscreen_rules.il
+   (00:19:39) *WARNING* (Parser): extra ')' ignored
+   (00:19:39) 
+   (00:19:39)                     ))
+   (00:19:39)                      ^
+   (00:19:39) PARSER WARNING at line 130 column 22 of file silkscreen_rules.il
+   (00:19:39) *WARNING* (Parser): extra ')' ignored
+   (00:19:40) *Error* eval: unbound variable - positions
+   (00:19:40) 
+   (00:19:40)   )
+   (00:19:40) ^^^
+   (00:19:40) PARSER WARNING at line 143 column 1 of file silkscreen_rules.il
+   (00:19:40) *WARNING* (Parser): extra ')' ignored
+   (00:19:40) 
+   (00:19:40) )
+   (00:19:40) ^
+   (00:19:40) PARSER WARNING at line 144 column 1 of file silkscreen_rules.il
+   (00:19:40) *WARNING* (Parser): extra ')' ignored
+   (00:19:40) 
+   (00:19:40)         (if (and (>= x (+ x_min text_width))
+   (00:19:40)                   ^^
+   (00:19:40) SYNTAX ERROR found at line 188 column 19 of file silkscreen_rules.il
+   (00:19:40) *Error* lineread/read: syntax error encountered in input
+   (00:19:40) 
+   (00:19:40)                  (<= x (- x_max text_width))
+   (00:19:40)                   ^^
+   (00:19:40) SYNTAX ERROR found at line 189 column 19 of file silkscreen_rules.il
+   (00:19:40) *Error* lineread/read: syntax error encountered in input
+   (00:19:40) 
+   (00:19:40)                  (>= y (+ y_min text_height))
+   (00:19:40)                   ^^
+   (00:19:40) SYNTAX ERROR found at line 190 column 19 of file silkscreen_rules.il
+   (00:19:40) *Error* lineread/read: syntax error encountered in input
+   (00:19:40) 
+   (00:19:40)                  (<= y (- y_max text_height)))
+   (00:19:40)                   ^^
+   (00:19:40) SYNTAX ERROR found at line 191 column 19 of file silkscreen_rules.il
+   (00:19:40) *Error* lineread/read: syntax error encountered in input
+   (00:19:40) *Error* eval: unbound variable - points
+   (00:19:40) 
+   (00:19:40)         )
+   (00:19:40) ^^^^^^^^^
+   (00:19:40) PARSER WARNING at line 193 column 1 of file silkscreen_rules.il
+   (00:19:40) *WARNING* (Parser): extra ')' ignored
+   (00:19:40) 
+   (00:19:40)       )
+   (00:19:40) ^^^^^^^
+   (00:19:40) PARSER WARNING at line 194 column 1 of file silkscreen_rules.il
+   (00:19:40) *WARNING* (Parser): extra ')' ignored
+   (00:19:40) 
+   (00:19:40)     )
+   (00:19:40) ^^^^^
+   (00:19:40) PARSER WARNING at line 195 column 1 of file silkscreen_rules.il
+   (00:19:40) *WARNING* (Parser): extra ')' ignored
+   (00:19:40) *Error* load/loadstring: undefined variable - points
+   (00:19:40) 
+   (00:19:40)   )
+   (00:19:40) ^^^
+   (00:19:40) PARSER WARNING at line 197 column 1 of file silkscreen_rules.il
+   (00:19:40) *WARNING* (Parser): extra ')' ignored
+   (00:19:40) 
+   (00:19:40) )
+   (00:19:40) ^
+   (00:19:40) PARSER WARNING at line 198 column 1 of file silkscreen_rules.il
+   (00:19:40) *WARNING* (Parser): extra ')' ignored
+   (00:19:40) 
+   (00:19:40)     (setq x_max (+ (caddr bbox) min_distance))
+   (00:19:40)                  ^
+   (00:19:40) SYNTAX ERROR found at line 227 column 18 of file silkscreen_rules.il
+   (00:19:40) *Error* lineread/read: syntax error encountered in input
+   (00:19:40) 
+   (00:19:40)     (setq y_max (+ (cadddr bbox) min_distance))
+   (00:19:40)                  ^
+   (00:19:40) SYNTAX ERROR found at line 228 column 18 of file silkscreen_rules.il
+   (00:19:40) *Error* lineread/read: syntax error encountered in input
+   (00:19:40) 
+   (00:19:40)     (and (>= x x_min) (<= x x_max) (>= y y_min) (<= y y_max))
+   (00:19:40)           ^^
+   (00:19:40) SYNTAX ERROR found at line 230 column 11 of file silkscreen_rules.il
+   (00:19:40) *Error* lineread/read: syntax error encountered in input
+   (00:19:40) 
+   (00:19:40)   )
+   (00:19:40) ^^^
+   (00:19:40) PARSER WARNING at line 231 column 1 of file silkscreen_rules.il
+   (00:19:40) *WARNING* (Parser): extra ')' ignored
+   (00:19:40) 
+   (00:19:40) )
+   (00:19:40) ^
+   (00:19:40) PARSER WARNING at line 232 column 1 of file silkscreen_rules.il
+   (00:19:40) *WARNING* (Parser): extra ')' ignored
+   (00:19:40) 
+   (00:19:40)                          (+ (caddr board_bbox) 100.0)
+   (00:19:40)                           ^
+   (00:19:40) SYNTAX ERROR found at line 243 column 27 of file silkscreen_rules.il
+   (00:19:40) *Error* lineread/read: syntax error encountered in input
+   (00:19:40) 
+   (00:19:40)                          (+ (cadddr board_bbox) 100.0)
+   (00:19:40)                           ^
+   (00:19:40) SYNTAX ERROR found at line 244 column 27 of file silkscreen_rules.il
+   (00:19:40) *Error* lineread/read: syntax error encountered in input
+   (00:19:40) 
+   (00:19:40)                         ))
+   (00:19:40) ^^^^^^^^^^^^^^^^^^^^^^^^^
+   (00:19:40) PARSER WARNING at line 245 column 1 of file silkscreen_rules.il
+   (00:19:40) *WARNING* (Parser): extra ')' ignored
+   (00:19:40) 
+   (00:19:40)                         ))
+   (00:19:40)                          ^
+   (00:19:40) PARSER WARNING at line 245 column 26 of file silkscreen_rules.il
+   (00:19:40) *WARNING* (Parser): extra ')' ignored
+   (00:19:40) *Error* eval: unbound variable - ref_des
+   (00:19:40) 
+   (00:19:40)   )
+   (00:19:40) ^^^
+   (00:19:40) PARSER WARNING at line 250 column 1 of file silkscreen_rules.il
+   (00:19:40) *WARNING* (Parser): extra ')' ignored
+   (00:19:40) 
+   (00:19:40) )
+   (00:19:40) ^
+   (00:19:40) PARSER WARNING at line 251 column 1 of file silkscreen_rules.il
+   (00:19:40) *WARNING* (Parser): extra ')' ignored
+   (00:19:40) *Error* eval: undefined function - axlUIMsg
+   (00:19:40) t
+\e (00:23:31) Command not found: load(silkscreen_rules.il)
+\e (00:23:38) Command not found: loadi(silkscreen_rules.il)
+\i (00:23:46) skill 'loadi "silkscreen_rules.il"' 
+   (00:23:46) function apply_silkscreen_rules redefined
+   (00:23:46) function get_copper_objects redefined
+   (00:23:46) 
+   (00:23:46)                (obj_radius (/ (axlDBGetWidth obj) 2.0)))
+   (00:23:46)                             ^
+   (00:23:46) SYNTAX ERROR found at line 92 column 29 of file silkscreen_rules.il
+   (00:23:46) *Error* lineread/read: syntax error encountered in input
+   (00:23:46) 
+   (00:23:46)            (if (<= (distance_between_points point obj_point) obj_radius)
+   (00:23:46)                 ^^
+   (00:23:46) SYNTAX ERROR found at line 93 column 17 of file silkscreen_rules.il
+   (00:23:46) *Error* lineread/read: syntax error encountered in input
+   (00:23:46) 
+   (00:23:46)            )
+   (00:23:46) ^^^^^^^^^^^^
+   (00:23:46) PARSER WARNING at line 95 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46)          )
+   (00:23:46) ^^^^^^^^^^
+   (00:23:46) PARSER WARNING at line 96 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46)         )
+   (00:23:46) ^^^^^^^^^
+   (00:23:46) PARSER WARNING at line 97 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) *Error* eval: undefined function - axlDBIsPointInShape
+   (00:23:46) 
+   (00:23:46)       )
+   (00:23:46) ^^^^^^^
+   (00:23:46) PARSER WARNING at line 103 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46)     )
+   (00:23:46) ^^^^^
+   (00:23:46) PARSER WARNING at line 104 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46)   )
+   (00:23:46) ^^^
+   (00:23:46) PARSER WARNING at line 106 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46) )
+   (00:23:46) ^
+   (00:23:46) PARSER WARNING at line 107 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46)     (sqrt (+ (pow (- x2 x1) 2) (pow (- y2 y1) 2)))
+   (00:23:46)            ^
+   (00:23:46) SYNTAX ERROR found at line 115 column 12 of file silkscreen_rules.il
+   (00:23:46) *Error* lineread/read: syntax error encountered in input
+   (00:23:46) 
+   (00:23:46)   )
+   (00:23:46) ^^^
+   (00:23:46) PARSER WARNING at line 116 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46) )
+   (00:23:46) ^
+   (00:23:46) PARSER WARNING at line 117 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46)                      (list (+ (car bbox) text_width) (/ (+ (cadr bbox) (cadddr bbox)) 2))      ; Right
+   (00:23:46)                             ^
+   (00:23:46) SYNTAX ERROR found at line 137 column 29 of file silkscreen_rules.il
+   (00:23:46) *Error* lineread/read: syntax error encountered in input
+   (00:23:46) 
+   (00:23:46)                      (list (- (caddr bbox) text_width) (/ (+ (cadr bbox) (cadddr bbox)) 2))     ; Left
+   (00:23:46)                                                         ^
+   (00:23:46) SYNTAX ERROR found at line 138 column 57 of file silkscreen_rules.il
+   (00:23:46) *Error* lineread/read: syntax error encountered in input
+   (00:23:46) 
+   (00:23:46)                      (list (/ (+ (car bbox) (caddr bbox)) 2) (+ (cadddr bbox) text_height))    ; Top
+   (00:23:46)                             ^
+   (00:23:46) SYNTAX ERROR found at line 139 column 29 of file silkscreen_rules.il
+   (00:23:46) *Error* lineread/read: syntax error encountered in input
+   (00:23:46) 
+   (00:23:46)                      (list (/ (+ (car bbox) (caddr bbox)) 2) (- (cadr bbox) text_height))      ; Bottom
+   (00:23:46)                             ^
+   (00:23:46) SYNTAX ERROR found at line 140 column 29 of file silkscreen_rules.il
+   (00:23:46) *Error* lineread/read: syntax error encountered in input
+   (00:23:46) 
+   (00:23:46)                     ))
+   (00:23:46) ^^^^^^^^^^^^^^^^^^^^^
+   (00:23:46) PARSER WARNING at line 141 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46)                     ))
+   (00:23:46)                      ^
+   (00:23:46) PARSER WARNING at line 141 column 22 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) *Error* eval: unbound variable - positions
+   (00:23:46) 
+   (00:23:46)   )
+   (00:23:46) ^^^
+   (00:23:46) PARSER WARNING at line 160 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46) )
+   (00:23:46) ^
+   (00:23:46) PARSER WARNING at line 161 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) function place_in_empty_space redefined
+   (00:23:46) 
+   (00:23:46)         (if (and (>= x (+ x_min text_width))
+   (00:23:46)                   ^^
+   (00:23:46) SYNTAX ERROR found at line 219 column 19 of file silkscreen_rules.il
+   (00:23:46) *Error* lineread/read: syntax error encountered in input
+   (00:23:46) 
+   (00:23:46)                  (<= x (- x_max text_width))
+   (00:23:46)                   ^^
+   (00:23:46) SYNTAX ERROR found at line 220 column 19 of file silkscreen_rules.il
+   (00:23:46) *Error* lineread/read: syntax error encountered in input
+   (00:23:46) 
+   (00:23:46)                  (>= y (+ y_min text_height))
+   (00:23:46)                   ^^
+   (00:23:46) SYNTAX ERROR found at line 221 column 19 of file silkscreen_rules.il
+   (00:23:46) *Error* lineread/read: syntax error encountered in input
+   (00:23:46) 
+   (00:23:46)                  (<= y (- y_max text_height)))
+   (00:23:46)                   ^^
+   (00:23:46) SYNTAX ERROR found at line 222 column 19 of file silkscreen_rules.il
+   (00:23:46) *Error* lineread/read: syntax error encountered in input
+   (00:23:46) *Error* eval: unbound variable - points
+   (00:23:46) 
+   (00:23:46)         )
+   (00:23:46) ^^^^^^^^^
+   (00:23:46) PARSER WARNING at line 224 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46)       )
+   (00:23:46) ^^^^^^^
+   (00:23:46) PARSER WARNING at line 225 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46)     )
+   (00:23:46) ^^^^^
+   (00:23:46) PARSER WARNING at line 226 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) *Error* load/loadstring: undefined variable - points
+   (00:23:46) 
+   (00:23:46)   )
+   (00:23:46) ^^^
+   (00:23:46) PARSER WARNING at line 228 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46) )
+   (00:23:46) ^
+   (00:23:46) PARSER WARNING at line 229 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) function is_near_component redefined
+   (00:23:46) 
+   (00:23:46)         (x_max (+ (caddr bbox) min_distance))
+   (00:23:46)                 ^
+   (00:23:46) SYNTAX ERROR found at line 255 column 17 of file silkscreen_rules.il
+   (00:23:46) *Error* lineread/read: syntax error encountered in input
+   (00:23:46) 
+   (00:23:46)         (y_max (+ (cadddr bbox) min_distance)))
+   (00:23:46)                 ^
+   (00:23:46) SYNTAX ERROR found at line 256 column 17 of file silkscreen_rules.il
+   (00:23:46) *Error* lineread/read: syntax error encountered in input
+   (00:23:46) 
+   (00:23:46)     (and (>= x x_min) (<= x x_max) (>= y y_min) (<= y y_max))
+   (00:23:46)           ^^
+   (00:23:46) SYNTAX ERROR found at line 258 column 11 of file silkscreen_rules.il
+   (00:23:46) *Error* lineread/read: syntax error encountered in input
+   (00:23:46) 
+   (00:23:46)   )
+   (00:23:46) ^^^
+   (00:23:46) PARSER WARNING at line 259 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46) )
+   (00:23:46) ^
+   (00:23:46) PARSER WARNING at line 260 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46)                          (+ (caddr board_bbox) 100.0)
+   (00:23:46)                           ^
+   (00:23:46) SYNTAX ERROR found at line 274 column 27 of file silkscreen_rules.il
+   (00:23:46) *Error* lineread/read: syntax error encountered in input
+   (00:23:46) 
+   (00:23:46)                          (+ (cadddr board_bbox) 100.0)
+   (00:23:46)                           ^
+   (00:23:46) SYNTAX ERROR found at line 275 column 27 of file silkscreen_rules.il
+   (00:23:46) *Error* lineread/read: syntax error encountered in input
+   (00:23:46) 
+   (00:23:46)                         ))
+   (00:23:46) ^^^^^^^^^^^^^^^^^^^^^^^^^
+   (00:23:46) PARSER WARNING at line 276 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46)                         ))
+   (00:23:46)                          ^
+   (00:23:46) PARSER WARNING at line 276 column 26 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) *Error* eval: unbound variable - ref_des
+   (00:23:46) 
+   (00:23:46)   )
+   (00:23:46) ^^^
+   (00:23:46) PARSER WARNING at line 288 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+   (00:23:46) 
+   (00:23:46) )
+   (00:23:46) ^
+   (00:23:46) PARSER WARNING at line 289 column 1 of file silkscreen_rules.il
+   (00:23:46) *WARNING* (Parser): extra ')' ignored
+\t (00:23:46) Silkscreen rules command registered. Type 'silkscreen_rules' to execute.
+   (00:23:46) function silkscreen_rules redefined
+   (00:23:46) t
+\i (00:37:20) skill 'loadi "silkscreenPlacementRules.il"' 
+   (00:37:20) function updateTextPosition redefined
+   (00:37:20) t
+\e (00:37:31) Command not found: clear
+\e (00:37:32) Command not found: sad
+\e (00:37:33) Command not found: s
+\e (00:37:33) Command not found: s
+\e (00:37:33) Command not found: s
+\e (00:37:33) Command not found: s
+\i (00:37:38) skill 'loadi "silkscreenPlacementRules.il"' 
+   (00:37:38) function init_globals redefined
+   (00:37:38) function SilkscreenPlacementRules redefined
+   (00:37:38) function performSilkscreenPlacement redefined
+   (00:37:38) function processSilkscreenText redefined
+   (00:37:38) function findSpaceNearComponent redefined
+   (00:37:38) function findEmptySpaceOnBoard redefined
+   (00:37:38) function findSpaceOutsideBoard redefined
+   (00:37:38) function isValidPosition redefined
+   (00:37:38) function isWithinBoardOutline redefined
+   (00:37:38) function hasCopperClearance redefined
+   (00:37:38) function hasComponentClearance redefined
+   (00:37:38) function getBoardOutline redefined
+   (00:37:38) function getCopperObjects redefined
+   (00:37:38) function getComponents redefined
+   (00:37:38) function getSilkscreenTexts redefined
+   (00:37:38) function updateTextPosition redefined
+   (00:37:38) function updateTextRotation redefined
+   (00:37:38) function silkscreenForm_Action redefined
+   (00:37:38) function createSilkscreenForm redefined
+   (00:37:38) t
+\i (00:37:49) exit 
+\t (00:37:50)     Journal end - Tue Apr 29 16:32:55 2025
